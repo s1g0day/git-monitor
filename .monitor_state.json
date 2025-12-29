@@ -282,10 +282,10 @@
     "last_check": "2025-12-29T10:14:34.451985"
   },
   "adysec/nuclei_poc": {
-    "last_commit": "efe83fa",
+    "last_commit": "2217bf5",
     "last_tag": null,
     "last_release": null,
-    "last_check": "2025-12-29T10:14:35.237630"
+    "last_check": "2025-12-29T11:11:52.474209"
   },
   "AhMyth/AhMyth-Android-RAT": {
     "last_commit": "97465b1",
@@ -2274,10 +2274,10 @@
     "last_check": "2025-12-29T10:19:03.602112"
   },
   "Pawdroid/Free-servers": {
-    "last_commit": "500105c",
+    "last_commit": "1d830c5",
     "last_tag": null,
     "last_release": null,
-    "last_check": "2025-12-29T10:19:04.343624"
+    "last_check": "2025-12-29T11:16:27.040707"
   },
   "PDWR/AVKiller": {
     "last_commit": "9c81f3d",
