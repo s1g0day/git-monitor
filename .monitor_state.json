@@ -234,10 +234,10 @@
     "last_check": "2025-10-27T11:50:39.300531"
   },
   "wzdnzd/aggregator": {
-    "last_commit": "a53dba7",
+    "last_commit": "6d3746e",
     "last_tag": "v1.0.8",
     "last_release": null,
-    "last_check": "2025-10-27T11:50:39.833210"
+    "last_check": "2025-12-29T09:18:33.727520"
   },
   "xykt/NetQuality": {
     "last_commit": "ae4527c",
@@ -274,5 +274,3851 @@
     "last_tag": "v0.1.2",
     "last_release": "v0.1.2",
     "last_check": "2025-12-09T19:17:20.336606"
+  },
+  "0voice/linux_kernel_wiki": {
+    "last_commit": "6885343",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:11:34.291684"
+  },
+  "0x727/BugRepoter_0x727": {
+    "last_commit": "c0678cf",
+    "last_tag": "V1.0",
+    "last_release": null,
+    "last_check": "2025-12-29T09:11:35.189891"
+  },
+  "0x727/ChkApi_0x727": {
+    "last_commit": "cc023ae",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:11:35.697118"
+  },
+  "0x727/SchTask_0x727": {
+    "last_commit": "7cb01fd",
+    "last_tag": "v1.0",
+    "last_release": "v1.0",
+    "last_check": "2025-12-29T09:11:36.855584"
+  },
+  "0x727/ShuiZe_0x727": {
+    "last_commit": "4faed5a",
+    "last_tag": "v1.0",
+    "last_release": "v1.0",
+    "last_check": "2025-12-29T09:11:37.583063"
+  },
+  "0x727/SpringBootExploit": {
+    "last_commit": "2a56ec1",
+    "last_tag": "1.3",
+    "last_release": "1.3",
+    "last_check": "2025-12-29T09:11:38.299631"
+  },
+  "0x7eTeam/0x7eTeamTools": {
+    "last_commit": "c85f32c",
+    "last_tag": "1.2",
+    "last_release": "1.2",
+    "last_check": "2025-12-29T09:11:39.048065"
+  },
+  "0xchang/DockerApiRCE": {
+    "last_commit": "dc22c26",
+    "last_tag": "v0.4",
+    "last_release": "v0.4",
+    "last_check": "2025-12-29T09:11:39.745374"
+  },
+  "0xKayala/NucleiFuzzer": {
+    "last_commit": "7f1f43e",
+    "last_tag": "v2.4.0",
+    "last_release": "v2.4.0",
+    "last_check": "2025-12-29T09:11:40.413828"
+  },
+  "0xn0ne/weblogicScanner": {
+    "last_commit": "ddce09c",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:11:40.641718"
+  },
+  "0xsp-SRD/mortar": {
+    "last_commit": "ac6004a",
+    "last_tag": "v2",
+    "last_release": "v2",
+    "last_check": "2025-12-29T09:11:41.767769"
+  },
+  "1150037361/SpringScan": {
+    "last_commit": "0ea77ed",
+    "last_tag": "v2.0",
+    "last_release": "v2.0",
+    "last_check": "2025-12-29T09:11:42.581637"
+  },
+  "1modm/petereport": {
+    "last_commit": "9120544",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:11:42.849598"
+  },
+  "1n7erface/Template": {
+    "last_commit": "f9f43b7",
+    "last_tag": "v1.2.5",
+    "last_release": "v1.2.5",
+    "last_check": "2025-12-29T09:11:43.953866"
+  },
+  "1u0Hun/SAReport": {
+    "last_commit": "0f420d6",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:11:44.258087"
+  },
+  "1y0n/AV_Evasion_Tool": {
+    "last_commit": "b82fabf",
+    "last_tag": "v1.0",
+    "last_release": "20231208",
+    "last_check": "2025-12-29T09:11:45.453009"
+  },
+  "20142995/Goby": {
+    "last_commit": null,
+    "last_tag": null,
+    "last_release": null,
+    "last_check": null
+  },
+  "20142995/nuclei-templates": {
+    "last_commit": null,
+    "last_tag": null,
+    "last_release": null,
+    "last_check": null
+  },
+  "2dust/v2rayN": {
+    "last_commit": "807562b",
+    "last_tag": "7.16.9",
+    "last_release": "7.16.9",
+    "last_check": "2025-12-29T09:11:47.058149"
+  },
+  "485653/swallow": {
+    "last_commit": "b3c2f27",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:11:47.372749"
+  },
+  "4ra1n/shell-analyzer": {
+    "last_commit": "9f00400",
+    "last_tag": "0.1",
+    "last_release": "0.1",
+    "last_check": "2025-12-29T09:11:48.485838"
+  },
+  "4ra1n/super-xray": {
+    "last_commit": "cda5fd1",
+    "last_tag": "1.7",
+    "last_release": "1.7",
+    "last_check": "2025-12-29T09:11:49.115593"
+  },
+  "78778443/xssplatform": {
+    "last_commit": "c64ed82",
+    "last_tag": "v1.0",
+    "last_release": "v1.0",
+    "last_check": "2025-12-29T09:11:49.868633"
+  },
+  "7dog7/masscan_to_nmap": {
+    "last_commit": "68d5433",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:11:50.170135"
+  },
+  "7hang/--php": {
+    "last_commit": "3056817",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:11:50.926584"
+  },
+  "864381832/xJavaFxTool": {
+    "last_commit": "6625bd9",
+    "last_tag": "v1.0.1",
+    "last_release": "v1.0.1",
+    "last_check": "2025-12-29T09:11:52.048996"
+  },
+  "Aabyss-Team/Antivirus-Scan": {
+    "last_commit": "05f8b65",
+    "last_tag": "1.8.5",
+    "last_release": "1.8.5",
+    "last_check": "2025-12-29T09:11:52.788947"
+  },
+  "Aabyss-Team/ARL": {
+    "last_commit": "8404734",
+    "last_tag": "2.6.3",
+    "last_release": "2.6.3",
+    "last_check": "2025-12-29T09:11:53.451746"
+  },
+  "Aabyss-Team/WebShell": {
+    "last_commit": "c958b34",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:11:53.725196"
+  },
+  "AabyssZG/SpringBoot-Scan": {
+    "last_commit": "53d98ed",
+    "last_tag": "2.56",
+    "last_release": "2.7.2",
+    "last_check": "2025-12-29T09:11:54.880975"
+  },
+  "AabyssZG/Web-SurvivalScan": {
+    "last_commit": "db86ec6",
+    "last_tag": "V1.11",
+    "last_release": "V1.11",
+    "last_check": "2025-12-29T09:11:55.529499"
+  },
+  "AabyssZG/WebShell-Bypass-Guide": {
+    "last_commit": "a709c97",
+    "last_tag": "V1.5.0",
+    "last_release": "V1.5.0",
+    "last_check": "2025-12-29T09:11:56.180771"
+  },
+  "abc123info/BlueTeamTools": {
+    "last_commit": "aa20ae8",
+    "last_tag": "v3.58",
+    "last_release": "v3.58",
+    "last_check": "2025-12-29T09:11:56.863809"
+  },
+  "abc123info/EquationToolsGUI": {
+    "last_commit": "ca57269",
+    "last_tag": "v0.51",
+    "last_release": "v0.51",
+    "last_check": "2025-12-29T09:11:57.515448"
+  },
+  "abc123info/Struts2VulsScanTools": {
+    "last_commit": "39313f8",
+    "last_tag": "v19.73",
+    "last_release": "v19.73",
+    "last_check": "2025-12-29T09:11:58.145709"
+  },
+  "abcz316/SKRoot-linuxKernelRoot": {
+    "last_commit": "e61edcf",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:11:58.359774"
+  },
+  "AbelChe/BlastWithCaptcha": {
+    "last_commit": "a6e2be5",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:11:59.107595"
+  },
+  "AbelChe/cola_dnslog": {
+    "last_commit": "fdce61c",
+    "last_tag": "v1.3.2",
+    "last_release": "v1.3.2",
+    "last_check": "2025-12-29T09:12:00.177827"
+  },
+  "abelcheung/rifiuti2": {
+    "last_commit": "40f185b",
+    "last_tag": "RIFIUTI2_0_5_1",
+    "last_release": "0.8.2",
+    "last_check": "2025-12-29T09:12:00.910351"
+  },
+  "achuna33/MYExploit": {
+    "last_commit": "8ffbf7e",
+    "last_tag": "V2.0.4",
+    "last_release": "V2.0.4",
+    "last_check": "2025-12-29T09:12:01.637267"
+  },
+  "Acmesec/theAIMythbook": {
+    "last_commit": "1b670a9",
+    "last_tag": "1.0.1",
+    "last_release": "1.0.1",
+    "last_check": "2025-12-29T09:12:02.320473"
+  },
+  "admin360bug/Compendium-of-Materia-Medica": {
+    "last_commit": "71d81d9",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:12:02.632790"
+  },
+  "admin360bug/upload-labs": {
+    "last_commit": "13a7629",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:12:03.325011"
+  },
+  "Adminisme/ServerScan": {
+    "last_commit": "86c6048",
+    "last_tag": "v1.0.2",
+    "last_release": "v1.0.2",
+    "last_check": "2025-12-29T09:12:04.502373"
+  },
+  "Adminisme/SharpRDPLog": {
+    "last_commit": "06dc818",
+    "last_tag": "0.1",
+    "last_release": "0.1",
+    "last_check": "2025-12-29T09:12:05.234116"
+  },
+  "AdminTest0/SharpWxDump": {
+    "last_commit": "6bc3ea3",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:12:05.461446"
+  },
+  "adysec/ARL": {
+    "last_commit": "209e8df",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:12:06.283143"
+  },
+  "adysec/nuclei_poc": {
+    "last_commit": "efe83fa",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:12:06.892252"
+  },
+  "AhMyth/AhMyth-Android-RAT": {
+    "last_commit": "97465b1",
+    "last_tag": "v1.0-beta.1",
+    "last_release": null,
+    "last_check": "2025-12-29T09:12:07.747280"
+  },
+  "aidlearning/AidLearning-FrameWork": {
+    "last_commit": "d5e812c",
+    "last_tag": "v1.3.0",
+    "last_release": "v1.3.0",
+    "last_check": "2025-12-29T09:12:08.634053"
+  },
+  "Al1ex/LinuxEelvation": {
+    "last_commit": "69cee23",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:12:08.899883"
+  },
+  "Al1ex/Pentest-tools": {
+    "last_commit": "d42312c",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:12:09.592584"
+  },
+  "aleenzz/Cobalt_Strike_wiki": {
+    "last_commit": "ccec2b3",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:12:10.237706"
+  },
+  "AlessandroZ/LaZagne": {
+    "last_commit": "858ff6f",
+    "last_tag": "v2.4.7",
+    "last_release": "v2.4.7",
+    "last_check": "2025-12-29T09:12:11.341485"
+  },
+  "aloeJun/hexo-themes-islu": {
+    "last_commit": "bb8485c",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:12:11.569570"
+  },
+  "AlphabugX/Alphalog": {
+    "last_commit": "9a37c21",
+    "last_tag": "1.0.0.Release",
+    "last_release": "1.0.0.Release",
+    "last_check": "2025-12-29T09:12:12.837597"
+  },
+  "AlphabugX/csOnvps": {
+    "last_commit": "44b8218",
+    "last_tag": "test",
+    "last_release": "test",
+    "last_check": "2025-12-29T09:12:13.568024"
+  },
+  "ambionics/phpggc": {
+    "last_commit": "f8aebde",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:12:13.830879"
+  },
+  "andesli/gossh": {
+    "last_commit": "10b7c71",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:12:14.514119"
+  },
+  "Anduin2017/HowToCook": {
+    "last_commit": "d8ea52d",
+    "last_tag": "1.5.0",
+    "last_release": "1.5.0",
+    "last_check": "2025-12-29T09:12:15.652656"
+  },
+  "angels520/rebeyond-Mode": {
+    "last_commit": null,
+    "last_tag": null,
+    "last_release": null,
+    "last_check": null
+  },
+  "anhkgg/anhkgg-tools": {
+    "last_commit": "b7f5a52",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:12:16.558974"
+  },
+  "ansonisme/SgkList": {
+    "last_commit": null,
+    "last_tag": null,
+    "last_release": null,
+    "last_check": null
+  },
+  "AntSwordProject/antSword": {
+    "last_commit": "6112ab2",
+    "last_tag": "2.1.15",
+    "last_release": "2.1.15",
+    "last_check": "2025-12-29T09:12:18.396104"
+  },
+  "AntSwordProject/AntSword-Labs": {
+    "last_commit": "3affcc6",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:12:18.682952"
+  },
+  "AntSwordProject/AwesomeEncoder": {
+    "last_commit": "c2d457f",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:12:19.385682"
+  },
+  "AnyeDuke/Enterprise-Security-Skill": {
+    "last_commit": "0b2e9c3",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:12:20.162670"
+  },
+  "API-Security/APIKit": {
+    "last_commit": "daeb4d9",
+    "last_tag": "v1.5.4",
+    "last_release": "v1.5.4",
+    "last_check": "2025-12-29T09:12:21.449492"
+  },
+  "aplyc1a/blogs": {
+    "last_commit": "2a2d02c",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:12:21.783528"
+  },
+  "APTRS/APTRS": {
+    "last_commit": "272db3c",
+    "last_tag": "2.0",
+    "last_release": "2.0",
+    "last_check": "2025-12-29T09:12:22.855128"
+  },
+  "ars3n11/Aggressor-Scripts": {
+    "last_commit": "4610041",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:12:23.182451"
+  },
+  "asaotomo/FofaMap": {
+    "last_commit": "4de2d1e",
+    "last_tag": "v1.1.3",
+    "last_release": "v1.1.3-new",
+    "last_check": "2025-12-29T09:12:24.347109"
+  },
+  "asaotomo/FofaMap-Cloud": {
+    "last_commit": "c40b0f0",
+    "last_tag": "v1.1.3",
+    "last_release": "v1.1.3",
+    "last_check": "2025-12-29T09:12:25.078512"
+  },
+  "asaotomo/SearchMap": {
+    "last_commit": "1c120dd",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:12:25.347263"
+  },
+  "Ascotbe/Kernelhub": {
+    "last_commit": "e55eb36",
+    "last_tag": "v1.1",
+    "last_release": "v1.1",
+    "last_check": "2025-12-29T09:12:26.491720"
+  },
+  "atomxw/cobaltstrike4.5_cdf": {
+    "last_commit": "56a7c30",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:12:26.751469"
+  },
+  "AugustineFulgur/PackFilling": {
+    "last_commit": "32fda37",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:12:27.487670"
+  },
+  "Autumn-27/ScopeSentry": {
+    "last_commit": "470cdcc",
+    "last_tag": "v1.8",
+    "last_release": "v1.8",
+    "last_check": "2025-12-29T09:12:28.612844"
+  },
+  "awake1t/HackReport": {
+    "last_commit": "dd7ce62",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:12:28.864217"
+  },
+  "Ayusummer/cve-monitor-wxworkbot": {
+    "last_commit": "392be4f",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:12:29.623217"
+  },
+  "b0bac/ApolloScanner": {
+    "last_commit": "f125880",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:12:30.321989"
+  },
+  "BC-SECURITY/Empire": {
+    "last_commit": "62f17b8",
+    "last_tag": "v6.3.0",
+    "last_release": "v6.3.0",
+    "last_check": "2025-12-29T09:12:31.515080"
+  },
+  "BeichenDream/Godzilla": {
+    "last_commit": "a5558e6",
+    "last_tag": "v4.0.1-godzilla",
+    "last_release": "v4.0.1-godzilla",
+    "last_check": "2025-12-29T09:12:32.177439"
+  },
+  "bewhale/BurpLoaderKeygen-Modified": {
+    "last_commit": "4e38dcd",
+    "last_tag": "1.4",
+    "last_release": "1.4",
+    "last_check": "2025-12-29T09:12:32.930658"
+  },
+  "bewhale/thinkphp_gui_tools": {
+    "last_commit": "7713b85",
+    "last_tag": "v2.4.2",
+    "last_release": "v2.4.2",
+    "last_check": "2025-12-29T09:12:33.760067"
+  },
+  "biggerduck/RedTeamNotes": {
+    "last_commit": "c06b222",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:12:34.035010"
+  },
+  "bigsizeme/shiro-check": {
+    "last_commit": "6d151b9",
+    "last_tag": "shirochek3.0",
+    "last_release": "shirochek3.0",
+    "last_check": "2025-12-29T09:12:35.373439"
+  },
+  "BishopFox/sliver": {
+    "last_commit": "0bbecc1",
+    "last_tag": "v1.5.44",
+    "last_release": "v1.5.44",
+    "last_check": "2025-12-29T09:12:36.128400"
+  },
+  "bit4woo/burp-api-drops": {
+    "last_commit": "17321fd",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:12:36.373750"
+  },
+  "bit4woo/knife": {
+    "last_commit": "bd6343b",
+    "last_tag": "v2.3",
+    "last_release": "v2.3",
+    "last_check": "2025-12-29T09:12:37.661356"
+  },
+  "bitquark/shortscan": {
+    "last_commit": "2ba744f",
+    "last_tag": "v0.9.2",
+    "last_release": null,
+    "last_check": "2025-12-29T09:12:38.118754"
+  },
+  "bitsadmin/wesng": {
+    "last_commit": "b454d49",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:12:38.615562"
+  },
+  "BlackFan/jpg_payload": {
+    "last_commit": "600aa20",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:12:39.370360"
+  },
+  "blackorbird/APT_REPORT": {
+    "last_commit": "89e67ca",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:12:40.040547"
+  },
+  "blanboom/awesome-home-networking-cn": {
+    "last_commit": "f4b10df",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:12:40.734965"
+  },
+  "blinkfox/hexo-theme-matery": {
+    "last_commit": "86ad429",
+    "last_tag": "v2.0.0",
+    "last_release": "v2.0.0",
+    "last_check": "2025-12-29T09:12:41.915331"
+  },
+  "BluePointLilac/ContextMenuManager": {
+    "last_commit": "5550715",
+    "last_tag": "3.3.3.1",
+    "last_release": "3.3.3.1",
+    "last_check": "2025-12-29T09:12:42.654848"
+  },
+  "bowu678/php_bugs": {
+    "last_commit": "3a5270e",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:12:43.002719"
+  },
+  "boy-hack/ksubdomain": {
+    "last_commit": "52c6dcb",
+    "last_tag": "v2.4.0",
+    "last_release": "v2.4.0",
+    "last_check": "2025-12-29T09:12:44.079853"
+  },
+  "budtmo/docker-android": {
+    "last_commit": "97bd5ae",
+    "last_tag": "v3.1.1-p0",
+    "last_release": "v3.1.1-p0",
+    "last_check": "2025-12-29T09:12:45.009541"
+  },
+  "BugFor-Pings/PHPwebshell": {
+    "last_commit": "cb7c736",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:12:45.437499"
+  },
+  "burpheart/koko-moni": {
+    "last_commit": "212e611",
+    "last_tag": "v0.0.1",
+    "last_release": "v0.0.1",
+    "last_check": "2025-12-29T09:12:46.708923"
+  },
+  "burpheart/PHPAuditGuideBook": {
+    "last_commit": "4ca38b4",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:12:47.019207"
+  },
+  "Bypass007/Emergency-Response-Notes": {
+    "last_commit": "693478c",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:12:47.782116"
+  },
+  "c0ny1/captcha-killer": {
+    "last_commit": "8748eb5",
+    "last_tag": "0.1.2",
+    "last_release": "0.1.2",
+    "last_check": "2025-12-29T09:12:48.995093"
+  },
+  "c0ny1/passive-scan-client": {
+    "last_commit": "a113685",
+    "last_tag": "0.3.1",
+    "last_release": "0.3.1",
+    "last_check": "2025-12-29T09:12:49.635660"
+  },
+  "c0ny1/upload-fuzz-dic-builder": {
+    "last_commit": "4c0f79e",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:12:49.887340"
+  },
+  "c0ny1/xxe-lab": {
+    "last_commit": "49e7f8e",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:12:50.601915"
+  },
+  "caorushizi/mediago": {
+    "last_commit": "58dc8dd",
+    "last_tag": "v3.1.0-beta.1",
+    "last_release": "v3.0.1",
+    "last_check": "2025-12-29T09:12:51.751731"
+  },
+  "carr0t2/nps-auth-bypass": {
+    "last_commit": null,
+    "last_tag": null,
+    "last_release": null,
+    "last_check": null
+  },
+  "chainreactors/gogo": {
+    "last_commit": "c2af0df",
+    "last_tag": "v2.14.1",
+    "last_release": "v2.14.1",
+    "last_check": "2025-12-29T09:12:52.895955"
+  },
+  "chainreactors/templates": {
+    "last_commit": "f871216",
+    "last_tag": "v2.8.2",
+    "last_release": null,
+    "last_check": "2025-12-29T09:12:53.354422"
+  },
+  "chainreactors/zombie": {
+    "last_commit": "d74417d",
+    "last_tag": "v1.2.2",
+    "last_release": "v1.2.2",
+    "last_check": "2025-12-29T09:12:54.307946"
+  },
+  "chaitin/rad": {
+    "last_commit": "7238020",
+    "last_tag": "1.0",
+    "last_release": "1.0",
+    "last_check": "2025-12-29T09:12:55.000055"
+  },
+  "chaitin/veinmind-tools": {
+    "last_commit": "b5b2af5",
+    "last_tag": "v2.1.5",
+    "last_release": "v2.1.5",
+    "last_check": "2025-12-29T09:12:55.736063"
+  },
+  "chaitin/xray": {
+    "last_commit": "aee9f9c",
+    "last_tag": "xpoc-0.1.0",
+    "last_release": "xpoc-0.1.0",
+    "last_check": "2025-12-29T09:12:56.360797"
+  },
+  "charonlight/HostCollisionGUI": {
+    "last_commit": null,
+    "last_tag": null,
+    "last_release": null,
+    "last_check": null
+  },
+  "charonlight/NacosExploitGUI": {
+    "last_commit": null,
+    "last_tag": null,
+    "last_release": null,
+    "last_check": null
+  },
+  "chibd2000/myscan": {
+    "last_commit": null,
+    "last_tag": null,
+    "last_release": null,
+    "last_check": null
+  },
+  "ChinaRan0/HuntBack": {
+    "last_commit": "b620c37",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:12:58.373930"
+  },
+  "chroblert/WindowsVulnScan": {
+    "last_commit": "20e1091",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:12:59.059806"
+  },
+  "chronicle/GCTI": {
+    "last_commit": "1c5fd42",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:12:59.977836"
+  },
+  "Cl0udG0d/HXnineTails": {
+    "last_commit": "f894ca6",
+    "last_tag": "v1.05",
+    "last_release": "v1.05",
+    "last_check": "2025-12-29T09:13:01.600929"
+  },
+  "clash-verge-rev/clash-verge-rev": {
+    "last_commit": "0cde6cf",
+    "last_tag": "v2.4.4",
+    "last_release": "v2.4.4",
+    "last_check": "2025-12-29T09:13:02.308821"
+  },
+  "cmderdev/cmder": {
+    "last_commit": "9e6e148",
+    "last_tag": "v1.3.25",
+    "last_release": "v1.3.25",
+    "last_check": "2025-12-29T09:13:02.998466"
+  },
+  "co01cat/SqlmapXPlus": {
+    "last_commit": "336bf01",
+    "last_tag": "v1.50-sqlmapxplus",
+    "last_release": "v1.6-sqlmapxplus",
+    "last_check": "2025-12-29T09:13:03.655476"
+  },
+  "cobbr/Covenant": {
+    "last_commit": "5decc3c",
+    "last_tag": "v0.6",
+    "last_release": null,
+    "last_check": "2025-12-29T09:13:04.098732"
+  },
+  "coder/code-server": {
+    "last_commit": "ac7322c",
+    "last_tag": "v4.107.0",
+    "last_release": "v4.107.0",
+    "last_check": "2025-12-29T09:13:05.035958"
+  },
+  "Coderrrr-400/XhitReport": {
+    "last_commit": "74d938b",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:13:05.329896"
+  },
+  "CodeSecurityTeam/frp": {
+    "last_commit": "7be178a",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:13:06.015377"
+  },
+  "coffeehb/Some-PoC-oR-ExP": {
+    "last_commit": "29c28c6",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:13:06.760476"
+  },
+  "compilelife/loginsight": {
+    "last_commit": "c1c5d45",
+    "last_tag": "v3.4.2",
+    "last_release": "v3.4.2",
+    "last_check": "2025-12-29T09:13:07.961051"
+  },
+  "crifan/android_app_security_crack": {
+    "last_commit": "c51e23a",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:13:08.207495"
+  },
+  "cseroad/Webshell_Generate": {
+    "last_commit": "ac25531",
+    "last_tag": "v1.2.4",
+    "last_release": "v1.2.4",
+    "last_check": "2025-12-29T09:13:09.288178"
+  },
+  "CTF-MissFeng/GoScan": {
+    "last_commit": "96b40f4",
+    "last_tag": "v0.01",
+    "last_release": null,
+    "last_check": "2025-12-29T09:13:09.929768"
+  },
+  "CTF-MissFeng/report": {
+    "last_commit": "55b96d0",
+    "last_tag": "v1.0.1",
+    "last_release": "v1.0.1",
+    "last_check": "2025-12-29T09:13:10.907612"
+  },
+  "Cu1in/RadomShell": {
+    "last_commit": "0d0c093",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:13:11.207349"
+  },
+  "czj2369/jd_tb_auto": {
+    "last_commit": "5cffc9a",
+    "last_tag": "打包程序",
+    "last_release": "v1.0.0-23.1111",
+    "last_check": "2025-12-29T09:13:12.305834"
+  },
+  "czz1233/GBByPass": {
+    "last_commit": "75a5769",
+    "last_tag": "version1.2",
+    "last_release": null,
+    "last_check": "2025-12-29T09:13:12.828299"
+  },
+  "d1nfinite/sec-interview": {
+    "last_commit": "c16d6f1",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:13:13.621598"
+  },
+  "d3ckx1/Fvuln": {
+    "last_commit": "ad73b83",
+    "last_tag": "Fvuln-v1.4.7",
+    "last_release": "Fvuln-1.4.9",
+    "last_check": "2025-12-29T09:13:14.701120"
+  },
+  "DaoSword/China-Education-Data": {
+    "last_commit": "6d4468b",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:13:14.950543"
+  },
+  "dark-kingA/arsenalTools": {
+    "last_commit": "1d2ec0d",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:13:15.627450"
+  },
+  "dark-kingA/cloudTools": {
+    "last_commit": "e8b405f",
+    "last_tag": "untagged-d2ec35891eaca4f757b5",
+    "last_release": null,
+    "last_check": "2025-12-29T09:13:16.514280"
+  },
+  "dark-kingA/superSearchPlus": {
+    "last_commit": "c589520",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:13:17.168899"
+  },
+  "dearestUU/HaoMao": {
+    "last_commit": "1e1b844",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:13:17.859569"
+  },
+  "DeEpinGh0st/MDUT-Extend-Release": {
+    "last_commit": "122733d",
+    "last_tag": "v1.2.0",
+    "last_release": "v1.2.0",
+    "last_check": "2025-12-29T09:13:18.939855"
+  },
+  "DeEpinGh0st/WindowsBaselineAssistant": {
+    "last_commit": "3db42aa",
+    "last_tag": "v1.2.3",
+    "last_release": "v1.2.3",
+    "last_check": "2025-12-29T09:13:19.561372"
+  },
+  "determinasc/stext": {
+    "last_commit": "60d1a75",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:13:19.849759"
+  },
+  "devanshbatham/ParamSpider": {
+    "last_commit": "790eb91",
+    "last_tag": "v1.0.1",
+    "last_release": "v1.0.1",
+    "last_check": "2025-12-29T09:13:20.913918"
+  },
+  "dnSpyEx/dnSpy": {
+    "last_commit": "41d82e2",
+    "last_tag": "v6.5.1",
+    "last_release": "v6.5.1",
+    "last_check": "2025-12-29T09:13:21.600768"
+  },
+  "doimet/AuxTools": {
+    "last_commit": "8a14752",
+    "last_tag": "5.8.1",
+    "last_release": "5.8.1",
+    "last_check": "2025-12-29T09:13:22.328633"
+  },
+  "donot-wong/sensinfor": {
+    "last_commit": "a74f30a",
+    "last_tag": "1.6",
+    "last_release": "1.6",
+    "last_check": "2025-12-29T09:13:23.050925"
+  },
+  "Drun1baby/JavaSecurityLearning": {
+    "last_commit": "33dec52",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:13:23.320879"
+  },
+  "dwisiswant0/apkleaks": {
+    "last_commit": "dd5271a",
+    "last_tag": "v2.6.3",
+    "last_release": "v2.6.3",
+    "last_check": "2025-12-29T09:13:24.416917"
+  },
+  "EASY233/Finger": {
+    "last_commit": "8ab2000",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:13:24.697510"
+  },
+  "ebalo55/crabby": {
+    "last_commit": "22f1592",
+    "last_tag": "v2.0.0",
+    "last_release": "v2.0.0",
+    "last_check": "2025-12-29T09:13:25.772843"
+  },
+  "EdgeSecurityTeam/EHole": {
+    "last_commit": "9a91e0b",
+    "last_tag": "v3.1",
+    "last_release": "v3.1",
+    "last_check": "2025-12-29T09:13:26.448628"
+  },
+  "edwardzpeng/presentations": {
+    "last_commit": "e47179d",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:13:26.742965"
+  },
+  "eeeeeeeeee-code/e0e1-wx": {
+    "last_commit": "81c6df5",
+    "last_tag": "更新",
+    "last_release": "2.01",
+    "last_check": "2025-12-29T09:13:27.810834"
+  },
+  "eeeeeeeeee-code/wx-hook": {
+    "last_commit": "7bf74f1",
+    "last_tag": "老版本小程序文件2",
+    "last_release": "老版本小程序文件2",
+    "last_check": "2025-12-29T09:13:28.480371"
+  },
+  "elastic/protections-artifacts": {
+    "last_commit": "cce5ebf",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:13:28.754489"
+  },
+  "ElderDrivers/EdXposed": {
+    "last_commit": "8f2308c",
+    "last_tag": "v0.5.2.2",
+    "last_release": "v0.5.2.2",
+    "last_check": "2025-12-29T09:13:29.897612"
+  },
+  "electerm/electerm": {
+    "last_commit": "871fc2e",
+    "last_tag": "v2.3.166",
+    "last_release": "v2.3.166",
+    "last_check": "2025-12-29T09:13:30.625125"
+  },
+  "Elegycloud/clash-for-linux-backup": {
+    "last_commit": null,
+    "last_tag": null,
+    "last_release": null,
+    "last_check": null
+  },
+  "emo-crab/observer_ward": {
+    "last_commit": "4d9ff26",
+    "last_tag": "v2025.11.26",
+    "last_release": "v2025.11.26",
+    "last_check": "2025-12-29T09:13:31.780907"
+  },
+  "emptybottle-null/Godzilla_null": {
+    "last_commit": "795761a",
+    "last_tag": "二开",
+    "last_release": "二开",
+    "last_check": "2025-12-29T09:13:32.478108"
+  },
+  "epi052/feroxbuster": {
+    "last_commit": "970ce73",
+    "last_tag": "v2.13.1",
+    "last_release": "v2.13.1",
+    "last_check": "2025-12-29T09:13:33.180291"
+  },
+  "Ernket/xia_sql_modify": {
+    "last_commit": "1f1c430",
+    "last_tag": "3.3.4",
+    "last_release": "3.3.4",
+    "last_check": "2025-12-29T09:13:33.868416"
+  },
+  "etn0tw/WebBatchRequest": {
+    "last_commit": "80afb9f",
+    "last_tag": "2.1",
+    "last_release": "2.1",
+    "last_check": "2025-12-29T09:13:34.507347"
+  },
+  "Eugeny/tabby": {
+    "last_commit": "315083d",
+    "last_tag": "v1.0.229",
+    "last_release": "v1.0.229",
+    "last_check": "2025-12-29T09:13:35.187293"
+  },
+  "euphrat1ca/Security-List": {
+    "last_commit": "bc50f9e",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:13:35.427583"
+  },
+  "evi1ox/cobalt_strike_bot": {
+    "last_commit": "4a69499",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:13:36.168374"
+  },
+  "EvilAnne/Violation_Pnetest": {
+    "last_commit": "4ba83b0",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:13:36.934599"
+  },
+  "evilc0deooo/PentesterSpecialDict": {
+    "last_commit": "5ed4661",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:13:37.637768"
+  },
+  "evilsocket/legba": {
+    "last_commit": "9cd65e0",
+    "last_tag": "v0.11.0",
+    "last_release": "1.2.0",
+    "last_check": "2025-12-29T09:13:38.741453"
+  },
+  "EXHades/CyberSpaceSearchEngine-Research": {
+    "last_commit": "c1d280e",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:13:38.983062"
+  },
+  "ExpLang/windows-expdb": {
+    "last_commit": "2e6881e",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:13:39.867959"
+  },
+  "ExpLangcn/InfoSearchAll": {
+    "last_commit": "a2754a0",
+    "last_tag": "V1.2",
+    "last_release": "V1.2",
+    "last_check": "2025-12-29T09:13:41.134580"
+  },
+  "ExpLangcn/NucleiTP": {
+    "last_commit": "2b7ecb9",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:13:41.418832"
+  },
+  "f0ng/captcha-killer-modified": {
+    "last_commit": "f3e4c37",
+    "last_tag": "0.24.7",
+    "last_release": "0.24.7",
+    "last_check": "2025-12-29T09:13:42.525852"
+  },
+  "FastCopyLab/FastCopyDist2": {
+    "last_commit": "7686935",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:13:42.768998"
+  },
+  "fatedier/frp": {
+    "last_commit": "ef96481",
+    "last_tag": "v0.65.0",
+    "last_release": "v0.65.0",
+    "last_check": "2025-12-29T09:13:43.977099"
+  },
+  "FeeiCN/SecurityInterviewGuide": {
+    "last_commit": "5e7bdc4",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:13:44.196470"
+  },
+  "feihong-cs/ShiroExploit-Deprecated": {
+    "last_commit": "73a77e9",
+    "last_tag": "v2.51",
+    "last_release": "v2.51",
+    "last_check": "2025-12-29T09:13:45.365998"
+  },
+  "feishi-1/petereport-zh": {
+    "last_commit": "808b5e2",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:13:45.614967"
+  },
+  "fengjixuchui/RedTeamer": {
+    "last_commit": "8daa6ed",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:13:46.347632"
+  },
+  "fengzhouc/tools": {
+    "last_commit": "3283608",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:13:47.130462"
+  },
+  "ffffffff0x/AboutSecurity": {
+    "last_commit": "af12f5a",
+    "last_tag": "v2",
+    "last_release": "v2",
+    "last_check": "2025-12-29T09:13:48.245306"
+  },
+  "ffffffff0x/f8x": {
+    "last_commit": "b5e39c2",
+    "last_tag": "1.6.2",
+    "last_release": "1.6.2",
+    "last_check": "2025-12-29T09:13:48.996445"
+  },
+  "ffuf/ffuf": {
+    "last_commit": "57da720",
+    "last_tag": "v2.1.0",
+    "last_release": "v2.1.0",
+    "last_check": "2025-12-29T09:13:49.717392"
+  },
+  "Fheidt12/Windows_Log": {
+    "last_commit": "ebb4c89",
+    "last_tag": "WinLog_Check",
+    "last_release": "WinLog_Check_V3.4.1",
+    "last_check": "2025-12-29T09:13:50.380150"
+  },
+  "filecxx/FileCentipede": {
+    "last_commit": "511f1e8",
+    "last_tag": "v2.82.0",
+    "last_release": "v2.82.0",
+    "last_check": "2025-12-29T09:13:51.013660"
+  },
+  "find-sec-bugs/find-sec-bugs": {
+    "last_commit": "e38542b",
+    "last_tag": "version-1.14.0",
+    "last_release": "version-1.14.0",
+    "last_check": "2025-12-29T09:13:51.754326"
+  },
+  "FindAllTeam/FindAll": {
+    "last_commit": "1fcdaa2",
+    "last_tag": "v1.4.0",
+    "last_release": "v1.4.0",
+    "last_check": "2025-12-29T09:13:52.438452"
+  },
+  "fishjam/LogViewer": {
+    "last_commit": "ec130de",
+    "last_tag": "untagged-b054a592425b21a68ea7",
+    "last_release": "Release-20250704",
+    "last_check": "2025-12-29T09:13:53.140294"
+  },
+  "FiYHer/EASY-HWID-SPOOFER": {
+    "last_commit": "fe0ad43",
+    "last_tag": "1.0",
+    "last_release": null,
+    "last_check": "2025-12-29T09:13:53.582745"
+  },
+  "FQrabbit/SSTap-Rule": {
+    "last_commit": "96f565d",
+    "last_tag": "v0.1-alpha",
+    "last_release": "2022.7.31",
+    "last_check": "2025-12-29T09:13:54.543332"
+  },
+  "freeFV/Tencent_Yun_tools": {
+    "last_commit": "521c61f",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:13:54.857290"
+  },
+  "FreshRSS/FreshRSS": {
+    "last_commit": "7c0370b",
+    "last_tag": "1.28.0",
+    "last_release": "1.28.0",
+    "last_check": "2025-12-29T09:13:56.001155"
+  },
+  "FuckPHP/FuckPHP": {
+    "last_commit": "e0aa392",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:13:56.244187"
+  },
+  "FunnyWolf/Viper": {
+    "last_commit": "ceee695",
+    "last_tag": "v3.1.9",
+    "last_release": "v3.1.9",
+    "last_check": "2025-12-29T09:13:57.341857"
+  },
+  "future-architect/vuls": {
+    "last_commit": "fc5344c",
+    "last_tag": "v0.37.0",
+    "last_release": "v0.37.0",
+    "last_check": "2025-12-29T09:13:58.073030"
+  },
+  "FW27623/qqwry": {
+    "last_commit": "eb60c08",
+    "last_tag": "2024-09-25",
+    "last_release": "2024-09-25",
+    "last_check": "2025-12-29T09:13:58.826479"
+  },
+  "G3et/Search_Viewer": {
+    "last_commit": "406797e",
+    "last_tag": "v4.2",
+    "last_release": "v4.2",
+    "last_check": "2025-12-29T09:13:59.415720"
+  },
+  "gakki429/Git_Extract": {
+    "last_commit": "fadce03",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:13:59.664560"
+  },
+  "Garck3h/killBehinderMemShell": {
+    "last_commit": "db6c93e",
+    "last_tag": "release",
+    "last_release": null,
+    "last_check": "2025-12-29T09:14:00.624266"
+  },
+  "gbrsh/CVE-2021-4034": {
+    "last_commit": "7b357bb",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:14:01.216115"
+  },
+  "geekmc/FindShell": {
+    "last_commit": "b492214",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:14:02.000520"
+  },
+  "GerbenJavado/LinkFinder": {
+    "last_commit": "1debac5",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:14:02.676126"
+  },
+  "Getshell/LinuxTQ": {
+    "last_commit": "34dd46a",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:14:03.367821"
+  },
+  "gh0stkey/avList": {
+    "last_commit": "b034096",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:14:04.045040"
+  },
+  "gh0stkey/CaA": {
+    "last_commit": "4e2734d",
+    "last_tag": "Beta0.9",
+    "last_release": "2.1",
+    "last_check": "2025-12-29T09:14:05.119746"
+  },
+  "gh0stkey/HaE": {
+    "last_commit": "7d43e8f",
+    "last_tag": "4.3.2",
+    "last_release": "4.3.2",
+    "last_check": "2025-12-29T09:14:05.738951"
+  },
+  "GhostTroops/ksubdomain": {
+    "last_commit": "288e794",
+    "last_tag": "0.4.4",
+    "last_release": "0.4.4",
+    "last_check": "2025-12-29T09:14:06.406491"
+  },
+  "GhostTroops/scan4all": {
+    "last_commit": "fff03b5",
+    "last_tag": "2.9.1",
+    "last_release": "2.9.1",
+    "last_check": "2025-12-29T09:14:07.170609"
+  },
+  "git-for-windows/git": {
+    "last_commit": "00d4f5e",
+    "last_tag": "v2.52.0.windows.1",
+    "last_release": "v2.52.0.windows.1",
+    "last_check": "2025-12-29T09:14:07.972537"
+  },
+  "gitleaks/gitleaks": {
+    "last_commit": "b66ac75",
+    "last_tag": "v8.30.0",
+    "last_release": "v8.30.0",
+    "last_check": "2025-12-29T09:14:08.644580"
+  },
+  "gloxec/CrossC2": {
+    "last_commit": "43171fc",
+    "last_tag": "v3.3",
+    "last_release": "v3.3",
+    "last_check": "2025-12-29T09:14:09.250874"
+  },
+  "godlike008/Todo": {
+    "last_commit": "85715d6",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:14:09.545606"
+  },
+  "gogs/gogs": {
+    "last_commit": "f813c17",
+    "last_tag": "v0.13.3",
+    "last_release": "v0.13.3",
+    "last_check": "2025-12-29T09:14:10.708921"
+  },
+  "google/security-research": {
+    "last_commit": "d57309a",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:14:10.994230"
+  },
+  "gophish/gophish": {
+    "last_commit": "9561846",
+    "last_tag": "v0.12.1",
+    "last_release": "v0.12.1",
+    "last_check": "2025-12-29T09:14:12.222030"
+  },
+  "govolution/avet": {
+    "last_commit": "6da43bf",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:14:12.844164"
+  },
+  "gubeihc/blasting": {
+    "last_commit": null,
+    "last_tag": null,
+    "last_release": null,
+    "last_check": null
+  },
+  "guchangan1/All-Defense-Tool": {
+    "last_commit": "d50447d",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:14:14.001609"
+  },
+  "h0ny/NacosExploit": {
+    "last_commit": "b75d5fe",
+    "last_tag": "v3.0.5",
+    "last_release": "v3.0.5",
+    "last_check": "2025-12-29T09:14:15.071590"
+  },
+  "h4m5t/SecNotes": {
+    "last_commit": "218d7d8",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:14:15.302989"
+  },
+  "HangZhouCat/ReaverAPKTools": {
+    "last_commit": "2e18035",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:14:16.043422"
+  },
+  "HaoOuBa/Joe": {
+    "last_commit": "a00c73f",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:14:16.726940"
+  },
+  "HatBoy/Struts2-Scan": {
+    "last_commit": "a96e748",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:14:17.418612"
+  },
+  "hayasec/360SafeBrowsergetpass": {
+    "last_commit": "96372cf",
+    "last_tag": "v0.1",
+    "last_release": "v0.1",
+    "last_check": "2025-12-29T09:14:18.580399"
+  },
+  "helloexp/0day": {
+    "last_commit": "29bd78f",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:14:18.812553"
+  },
+  "heygetit/GoogleHackingTool_modified": {
+    "last_commit": "d225c38",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:14:19.625826"
+  },
+  "HG-ha/ICP_Query": {
+    "last_commit": "ac499f5",
+    "last_tag": "v0.6.32",
+    "last_release": "v0.6.32",
+    "last_check": "2025-12-29T09:14:20.652263"
+  },
+  "HKEcho5213/HKEcho_Nacos": {
+    "last_commit": "94e3c0a",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:14:21.024182"
+  },
+  "hkylin/CrackCaptcahLogin": {
+    "last_commit": "9c25291",
+    "last_tag": "v2.0",
+    "last_release": null,
+    "last_check": "2025-12-29T09:14:21.924185"
+  },
+  "HMBSbige/ShadowsocksR-Android": {
+    "last_commit": "79bd893",
+    "last_tag": "zeronet",
+    "last_release": "3.8.3",
+    "last_check": "2025-12-29T09:14:22.926473"
+  },
+  "HMBSbige/ShadowsocksR-Windows": {
+    "last_commit": "a8a0884",
+    "last_tag": "6.1.0",
+    "last_release": "6.1.0",
+    "last_check": "2025-12-29T09:14:23.610128"
+  },
+  "hongriSec/PHP-Audit-Labs": {
+    "last_commit": "721e94e",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:14:23.851061"
+  },
+  "honmashironeko/ProxyCat": {
+    "last_commit": "1689d9f",
+    "last_tag": "ProxyCat-V2.0.4",
+    "last_release": "ProxyCat-V2.0.4",
+    "last_check": "2025-12-29T09:14:24.987580"
+  },
+  "howmp/reality": {
+    "last_commit": "d8caf64",
+    "last_tag": "v1.1.4",
+    "last_release": "v1.1.4",
+    "last_check": "2025-12-29T09:14:25.623201"
+  },
+  "httpie/cli": {
+    "last_commit": "5b604c3",
+    "last_tag": "3.2.4",
+    "last_release": "3.2.4",
+    "last_check": "2025-12-29T09:14:26.294170"
+  },
+  "huaigu4ng/SysWhispers3WinHttp": {
+    "last_commit": "99b2431",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:14:26.527907"
+  },
+  "huiyadanli/RevokeMsgPatcher": {
+    "last_commit": "f247361",
+    "last_tag": "2.1",
+    "last_release": "2.1",
+    "last_check": "2025-12-29T09:14:27.532032"
+  },
+  "huoji120/DuckMemoryScan": {
+    "last_commit": "9a73961",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:14:27.872051"
+  },
+  "hxer/imagecreatefrom-": {
+    "last_commit": "8a390a4",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:14:28.610821"
+  },
+  "i11us0ry/goon": {
+    "last_commit": "2d21182",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:14:29.357264"
+  },
+  "iceyhexman/onlinetools": {
+    "last_commit": "61f2df7",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:14:30.031054"
+  },
+  "icsharpcode/ILSpy": {
+    "last_commit": "76d879a",
+    "last_tag": "v10.0-preview1",
+    "last_release": "v9.1",
+    "last_check": "2025-12-29T09:14:31.134401"
+  },
+  "idfp/masquerade": {
+    "last_commit": "eb6c21d",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:14:31.399458"
+  },
+  "ifacker/cscan-go": {
+    "last_commit": "22f806f",
+    "last_tag": "v1.4",
+    "last_release": "v1.4",
+    "last_check": "2025-12-29T09:14:32.551744"
+  },
+  "iiiusky/alicloud-tools": {
+    "last_commit": "937f73f",
+    "last_tag": "v1.0.5",
+    "last_release": "v1.0.5",
+    "last_check": "2025-12-29T09:14:33.153997"
+  },
+  "ImCoriander/ZeroEye": {
+    "last_commit": "4b277fe",
+    "last_tag": "ZeroEye",
+    "last_release": "ZeroEye",
+    "last_check": "2025-12-29T09:14:33.822993"
+  },
+  "INotGreen/SharpThief": {
+    "last_commit": "1db4b33",
+    "last_tag": "SharpThief",
+    "last_release": "SharpThief",
+    "last_check": "2025-12-29T09:14:34.514479"
+  },
+  "inspiringz/Shiro-721": {
+    "last_commit": "3af8ef9",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:14:34.830258"
+  },
+  "ios1024/BurpLogin": {
+    "last_commit": "65a5d30",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:14:35.576977"
+  },
+  "irsdl/IIS-ShortName-Scanner": {
+    "last_commit": "a0f9c34",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:14:36.343507"
+  },
+  "iswbm/GolangCodingTime": {
+    "last_commit": "a303503",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:14:37.077776"
+  },
+  "iswbm/magic-python": {
+    "last_commit": "5b83fa7",
+    "last_tag": "v3.0",
+    "last_release": "v3.0",
+    "last_check": "2025-12-29T09:14:38.177857"
+  },
+  "itSssm3/DnslogCmdEcho_DnslogOrg": {
+    "last_commit": "9a0e5e3",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:14:38.467458"
+  },
+  "itwanger/toBeBetterJavaer": {
+    "last_commit": "eb2e96d",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:14:39.107148"
+  },
+  "Ivan1ee/NET-Deserialize": {
+    "last_commit": "adbc713",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:14:39.783477"
+  },
+  "Ivan1ee/Sharp4SoapShell": {
+    "last_commit": null,
+    "last_tag": null,
+    "last_release": null,
+    "last_check": null
+  },
+  "izj007/wechat": {
+    "last_commit": "3de7f7e",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:14:40.974753"
+  },
+  "j3ers3/Hello-Java-Sec": {
+    "last_commit": "d33f705",
+    "last_tag": "v1.15",
+    "last_release": "v1.15",
+    "last_check": "2025-12-29T09:14:42.026338"
+  },
+  "jas502n/oracleShell": {
+    "last_commit": "cd56889",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:14:42.300825"
+  },
+  "jaywcjlove/linux-command": {
+    "last_commit": "dd107af",
+    "last_tag": "v1.21.0",
+    "last_release": "v1.21.0",
+    "last_check": "2025-12-29T09:14:43.501293"
+  },
+  "jdonsec/AllThingsSSRF": {
+    "last_commit": "abb2ed2",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:14:45.155520"
+  },
+  "jdr2021/OSSFileBrowse": {
+    "last_commit": "202dcc3",
+    "last_tag": "v1.1",
+    "last_release": "v1.1",
+    "last_check": "2025-12-29T09:14:46.303736"
+  },
+  "JE2Se/ApolloScanner": {
+    "last_commit": null,
+    "last_tag": null,
+    "last_release": null,
+    "last_check": null
+  },
+  "Jewel591/suidcheck": {
+    "last_commit": "8c9e348",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:14:47.081882"
+  },
+  "jhao104/proxy_pool": {
+    "last_commit": "50cc52e",
+    "last_tag": "2.4.2",
+    "last_release": "2.4.1",
+    "last_check": "2025-12-29T09:14:48.175541"
+  },
+  "jiji262/douyin-downloader": {
+    "last_commit": "443c167",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:14:48.394130"
+  },
+  "jiushill/note": {
+    "last_commit": "95d7b73",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:14:49.071646"
+  },
+  "JnuSimba/AndroidSecNotes": {
+    "last_commit": "daa024a",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:14:49.729904"
+  },
+  "jondonas/linux-exploit-suggester-2": {
+    "last_commit": "efacd68",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:14:50.389987"
+  },
+  "Jox2018/hostloc_getPoints": {
+    "last_commit": "af76529",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:14:51.136951"
+  },
+  "JoyChou93/java-sec-code": {
+    "last_commit": "4711f4e",
+    "last_tag": "v2.0.0",
+    "last_release": "v2.0.0",
+    "last_check": "2025-12-29T09:14:52.307780"
+  },
+  "jumpserver/jumpserver": {
+    "last_commit": "95aa50e",
+    "last_tag": "v4.10.14",
+    "last_release": "v4.10.14",
+    "last_check": "2025-12-29T09:14:52.944857"
+  },
+  "jweny/pocassist": {
+    "last_commit": "269099d",
+    "last_tag": "1.0.5",
+    "last_release": "1.0.5",
+    "last_check": "2025-12-29T09:14:53.694989"
+  },
+  "k-fire/shellcode-to-dll": {
+    "last_commit": "32208bf",
+    "last_tag": "1.0",
+    "last_release": "1.0",
+    "last_check": "2025-12-29T09:14:54.447155"
+  },
+  "k8gege/MS17010EXP": {
+    "last_commit": "470b2d8",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:14:54.750425"
+  },
+  "kazet/wpgarlic": {
+    "last_commit": "5d47611",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:14:55.539663"
+  },
+  "kcreyts/plugxdecoder": {
+    "last_commit": "4e3b528",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:14:56.286129"
+  },
+  "kelvinBen/AutoRedTools": {
+    "last_commit": "87965bd",
+    "last_tag": "v1.0.1",
+    "last_release": "V1.0.2",
+    "last_check": "2025-12-29T09:14:57.322090"
+  },
+  "Kento-Sec/AsamF": {
+    "last_commit": "a4d950f",
+    "last_tag": "v0.2.5",
+    "last_release": "v0.2.5",
+    "last_check": "2025-12-29T09:14:57.979654"
+  },
+  "ki9mu/ARL-plus-docker": {
+    "last_commit": "4422b78",
+    "last_tag": "v3.0.1",
+    "last_release": "v3.0.1",
+    "last_check": "2025-12-29T09:14:58.630859"
+  },
+  "KiyanYang/DotVast.HashTool.WinUI": {
+    "last_commit": "7614887",
+    "last_tag": "v0.7.4",
+    "last_release": "v0.7.4",
+    "last_check": "2025-12-29T09:14:59.314928"
+  },
+  "kkbo8005/mitan": {
+    "last_commit": "1d3cf40",
+    "last_tag": "1.20",
+    "last_release": "1.2.3",
+    "last_check": "2025-12-29T09:14:59.921254"
+  },
+  "KlinKlinKlin/RedTeam-Tools-zh": {
+    "last_commit": "0472d9e",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:15:00.209060"
+  },
+  "klionsec/RedTeamer": {
+    "last_commit": "8daa6ed",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:15:00.905984"
+  },
+  "knownsec/404StarLink": {
+    "last_commit": "49a0a8f",
+    "last_tag": "v2.0",
+    "last_release": null,
+    "last_check": "2025-12-29T09:15:01.839072"
+  },
+  "knownsec/ksubdomain": {
+    "last_commit": "ef8fa60",
+    "last_tag": "v0.7",
+    "last_release": "v0.7",
+    "last_check": "2025-12-29T09:15:02.768290"
+  },
+  "knownsec/pocsuite3": {
+    "last_commit": "9bed288",
+    "last_tag": "v2.1.0",
+    "last_release": "v2.1.0",
+    "last_check": "2025-12-29T09:15:03.420972"
+  },
+  "komomon/github_monitor": {
+    "last_commit": "7ed0f2f",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:15:03.752149"
+  },
+  "komomon/Komo": {
+    "last_commit": "73954bf",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:15:04.421534"
+  },
+  "L-codes/pwcrack-framework": {
+    "last_commit": "b6fba8a",
+    "last_tag": "1.22.0",
+    "last_release": "1.22.0",
+    "last_check": "2025-12-29T09:15:05.534905"
+  },
+  "L1Kec0de/Redis-Getshell": {
+    "last_commit": "93ed638",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:15:05.778590"
+  },
+  "l3m0n/Bypass_Disable_functions_Shell": {
+    "last_commit": "f4f0075",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:15:06.472426"
+  },
+  "l3yx/Choccy": {
+    "last_commit": "5e74e6c",
+    "last_tag": "v1.3.2",
+    "last_release": "v1.3.2",
+    "last_check": "2025-12-29T09:15:07.842363"
+  },
+  "laconicwolf/Masscan-to-CSV": {
+    "last_commit": "5e5dbeb",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:15:08.193054"
+  },
+  "lal0ne/vulnerability": {
+    "last_commit": "5b9f397",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:15:08.941674"
+  },
+  "LandGrey/SpringBootVulExploit": {
+    "last_commit": "0fdbb44",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:15:09.776965"
+  },
+  "laramies/theHarvester": {
+    "last_commit": "d03790e",
+    "last_tag": "v3.0.5",
+    "last_release": "4.9.0",
+    "last_check": "2025-12-29T09:15:10.827433"
+  },
+  "LC044/WeChatMsg": {
+    "last_commit": "5b7acec",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:15:11.048358"
+  },
+  "lcvvvv/kscan": {
+    "last_commit": "cf76af2",
+    "last_tag": "v1.85",
+    "last_release": "v1.85",
+    "last_check": "2025-12-29T09:15:12.083727"
+  },
+  "Le0nsec/SecCrawler": {
+    "last_commit": "8ffa181",
+    "last_tag": "v2.2",
+    "last_release": "v2.2",
+    "last_check": "2025-12-29T09:15:12.860550"
+  },
+  "Lengso/iplookup": {
+    "last_commit": "8af3dff",
+    "last_tag": "v1.1",
+    "last_release": "v1.1",
+    "last_check": "2025-12-29T09:15:13.628430"
+  },
+  "Leon406/ToolsFx": {
+    "last_commit": "ff2fcad",
+    "last_tag": "v1.19.0",
+    "last_release": "v1.19.0",
+    "last_check": "2025-12-29T09:15:14.321713"
+  },
+  "LiAoRJ/CS_fakesubmit": {
+    "last_commit": "c726bc2",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:15:14.574771"
+  },
+  "lintstar/LSTAR": {
+    "last_commit": "a75fe22",
+    "last_tag": "v2.1",
+    "last_release": "v2.1",
+    "last_check": "2025-12-29T09:15:15.763662"
+  },
+  "lionsoul2014/ip2region": {
+    "last_commit": "56606de",
+    "last_tag": "v20250906-db2.0-final",
+    "last_release": "v3.11.1",
+    "last_check": "2025-12-29T09:15:16.449015"
+  },
+  "loecho-sec/ARL-Finger-ADD": {
+    "last_commit": "fd1ac79",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:15:16.715349"
+  },
+  "Lotus6/ThinkphpGUI": {
+    "last_commit": "14f5295",
+    "last_tag": "ThinkphpGUI",
+    "last_release": "1.3",
+    "last_check": "2025-12-29T09:15:17.877907"
+  },
+  "lovechoudoufu/SchTask_0x727": {
+    "last_commit": "f8a61ca",
+    "last_tag": "v1.1",
+    "last_release": "v1.1",
+    "last_check": "2025-12-29T09:15:18.641793"
+  },
+  "LSPosed/LSPosed": {
+    "last_commit": "df74d83",
+    "last_tag": "v1.9.2",
+    "last_release": "v1.9.2",
+    "last_check": "2025-12-29T09:15:19.284088"
+  },
+  "Lucifer1993/ALB": {
+    "last_commit": "3b74c3a",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:15:19.551184"
+  },
+  "Lucifer1993/TPscan": {
+    "last_commit": "2f5b8ef",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:15:20.240163"
+  },
+  "LuckyZmj/WebFuzzingDict": {
+    "last_commit": "37684f7",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:15:21.141546"
+  },
+  "lvzhenbo/localStorage-manager": {
+    "last_commit": "8f0b283",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:15:22.012069"
+  },
+  "lz520520/railgun": {
+    "last_commit": "4b9ccdd",
+    "last_tag": "v2.0.3",
+    "last_release": "v2.0.3-sp2",
+    "last_check": "2025-12-29T09:15:23.085044"
+  },
+  "M2Team/NanaRun": {
+    "last_commit": "41d9c61",
+    "last_tag": "1.0.92.0",
+    "last_release": null,
+    "last_check": "2025-12-29T09:15:23.608020"
+  },
+  "makoto56/penetration-suite-toolkit": {
+    "last_commit": "c2274b9",
+    "last_tag": "v6.0",
+    "last_release": "v6.0",
+    "last_check": "2025-12-29T09:15:24.705716"
+  },
+  "marktext/marktext": {
+    "last_commit": "aa71e33",
+    "last_tag": "v0.17.1",
+    "last_release": "v0.17.1",
+    "last_check": "2025-12-29T09:15:25.495253"
+  },
+  "MaskCyberSecurityTeam/FinalShellGetPass": {
+    "last_commit": "e514f30",
+    "last_tag": "v1.0.0",
+    "last_release": "v1.0.0",
+    "last_check": "2025-12-29T09:15:26.252584"
+  },
+  "Maskhe/javasec": {
+    "last_commit": "b3e1edc",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:15:26.521215"
+  },
+  "MatsuriDayo/nekoray": {
+    "last_commit": "adef6cd",
+    "last_tag": "4.0.1",
+    "last_release": "4.0.1",
+    "last_check": "2025-12-29T09:15:27.667424"
+  },
+  "maurosoria/dirsearch": {
+    "last_commit": "6087496",
+    "last_tag": "v0.4.3",
+    "last_release": "v0.4.3",
+    "last_check": "2025-12-29T09:15:28.357439"
+  },
+  "Medicean/as_bypass_php_disable_functions": {
+    "last_commit": "66d5f08",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:15:28.619496"
+  },
+  "MegaManSec/SSH-Snake": {
+    "last_commit": "b9f0c4a",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:15:29.378510"
+  },
+  "metaStor/SpringScan": {
+    "last_commit": "d852eb7",
+    "last_tag": "V1.8.2",
+    "last_release": "V1.8.2",
+    "last_check": "2025-12-29T09:15:30.510739"
+  },
+  "miaomiaosoft/PandaOCR.Pro": {
+    "last_commit": "455a5b4",
+    "last_tag": "5.58",
+    "last_release": "5.58",
+    "last_check": "2025-12-29T09:15:31.271339"
+  },
+  "michaelliao/itranswarp": {
+    "last_commit": "adc7d73",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:15:31.530707"
+  },
+  "Micropoor/Micro8": {
+    "last_commit": "2376687",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:15:32.204698"
+  },
+  "MInggongK/dahuaExploitGUI": {
+    "last_commit": "4c34a0f",
+    "last_tag": "dahuasdfssf",
+    "last_release": "dahuafdsfs",
+    "last_check": "2025-12-29T09:15:33.362202"
+  },
+  "MInggongK/Hikvision-": {
+    "last_commit": "73cfd75",
+    "last_tag": "hikvsiondvz",
+    "last_release": "hikvsiondvz",
+    "last_check": "2025-12-29T09:15:33.999720"
+  },
+  "MInggongK/jeecg-": {
+    "last_commit": "60f7544",
+    "last_tag": "jeecgfgd",
+    "last_release": "jeecgdg",
+    "last_check": "2025-12-29T09:15:34.669027"
+  },
+  "misaki7in/ipfilter": {
+    "last_commit": "5066777",
+    "last_tag": "2.0",
+    "last_release": "2.0",
+    "last_check": "2025-12-29T09:15:35.484049"
+  },
+  "mm0r1/exploits": {
+    "last_commit": "d624f2c",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:15:35.787841"
+  },
+  "MobSF/Mobile-Security-Framework-MobSF": {
+    "last_commit": "457d1e6",
+    "last_tag": "v4.4.2",
+    "last_release": "v4.4.2",
+    "last_check": "2025-12-29T09:15:37.016464"
+  },
+  "Mochazz/ThinkPHP-Vuln": {
+    "last_commit": "9572c5c",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:15:37.275281"
+  },
+  "momosecurity/FindSomething": {
+    "last_commit": "f125a18",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:15:38.002201"
+  },
+  "moonD4rk/HackBrowserData": {
+    "last_commit": "2f3f4a9",
+    "last_tag": "v0.4.6",
+    "last_release": "v0.4.6",
+    "last_check": "2025-12-29T09:15:39.113457"
+  },
+  "moyuwa/ApkCheckPack": {
+    "last_commit": "b084e3a",
+    "last_tag": "20250624",
+    "last_release": "20250624",
+    "last_check": "2025-12-29T09:15:39.752063"
+  },
+  "Mr-xn/BurpSuite-collections": {
+    "last_commit": "0057af4",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:15:40.028623"
+  },
+  "Mr-xn/Penetration_Testing_POC": {
+    "last_commit": "ea3741f",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:15:40.827264"
+  },
+  "Mr-xn/RedTeam_BlueTeam_HW": {
+    "last_commit": "49e64fc",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:15:41.541949"
+  },
+  "Mr-xn/subdomain_shell": {
+    "last_commit": "fa52888",
+    "last_tag": "v0.5",
+    "last_release": "v0.5",
+    "last_check": "2025-12-29T09:15:42.706567"
+  },
+  "Mr0x01/WXDBDecrypt.NET": {
+    "last_commit": "944ef2b",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:15:42.970477"
+  },
+  "mRemoteNG/mRemoteNG": {
+    "last_commit": "68a8cae",
+    "last_tag": "v1.78.1-nb",
+    "last_release": "v1.76.20",
+    "last_check": "2025-12-29T09:15:44.311753"
+  },
+  "mrknow001/aliyun-accesskey-Tools": {
+    "last_commit": "6c74f6d",
+    "last_tag": "v1.3",
+    "last_release": "v1.3",
+    "last_check": "2025-12-29T09:15:45.161363"
+  },
+  "mrknow001/API-Explorer": {
+    "last_commit": "9f988b1",
+    "last_tag": "v2.1.0",
+    "last_release": "v2.1.0",
+    "last_check": "2025-12-29T09:15:45.864593"
+  },
+  "MrLion7/Lmap": {
+    "last_commit": "c083288",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:15:46.156503"
+  },
+  "MrWQ/vulnerability-paper": {
+    "last_commit": "417a2a1",
+    "last_tag": "240418",
+    "last_release": "240418",
+    "last_check": "2025-12-29T09:15:47.474329"
+  },
+  "Mrzqd/52pojie_sign": {
+    "last_commit": "c87a40f",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:15:47.757421"
+  },
+  "mstxq17/MoreFind": {
+    "last_commit": "ba6f45c",
+    "last_tag": "v1.5.7",
+    "last_release": "v1.5.7",
+    "last_check": "2025-12-29T09:15:48.894923"
+  },
+  "musana/fuzzuli": {
+    "last_commit": "91b0ed2",
+    "last_tag": "v1.1.4",
+    "last_release": "v1.1.4",
+    "last_check": "2025-12-29T09:15:49.587071"
+  },
+  "Mustard404/Savior": {
+    "last_commit": "a1e57c8",
+    "last_tag": "new",
+    "last_release": "new",
+    "last_check": "2025-12-29T09:15:50.325392"
+  },
+  "Mzying2001/CefFlashBrowser": {
+    "last_commit": "f26060e",
+    "last_tag": "1.1.6",
+    "last_release": "1.1.6",
+    "last_check": "2025-12-29T09:15:51.074708"
+  },
+  "nadoo/glider": {
+    "last_commit": "bb439c9",
+    "last_tag": "v0.16.4",
+    "last_release": "v0.16.4",
+    "last_check": "2025-12-29T09:15:51.822393"
+  },
+  "naozibuhao/fofatools": {
+    "last_commit": "7a5402f",
+    "last_tag": "V2.6",
+    "last_release": "V2.6",
+    "last_check": "2025-12-29T09:15:52.533771"
+  },
+  "neargle/my-re0-k8s-security": {
+    "last_commit": "7f68869",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:15:52.971163"
+  },
+  "Neo-Maoku/SearchAvailableExe": {
+    "last_commit": "8d36523",
+    "last_tag": "V2.0.2",
+    "last_release": "V2.0.2",
+    "last_check": "2025-12-29T09:15:54.361830"
+  },
+  "netxfly/sec-dev-in-action-src": {
+    "last_commit": "332d604",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:15:54.622574"
+  },
+  "nickliqian/cnn_captcha": {
+    "last_commit": "2a3353e",
+    "last_tag": "v1.0",
+    "last_release": null,
+    "last_check": "2025-12-29T09:15:56.245524"
+  },
+  "nmmapper/dnsdumpster": {
+    "last_commit": "84c4b72",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:15:56.719405"
+  },
+  "NS-Sp4ce/AliyunAccessKeyTools": {
+    "last_commit": "ebbc637",
+    "last_tag": "1.0",
+    "last_release": "1.0",
+    "last_check": "2025-12-29T09:15:57.960193"
+  },
+  "nullt3r/jfscan": {
+    "last_commit": "28b45f8",
+    "last_tag": "latest",
+    "last_release": "1.6.2",
+    "last_check": "2025-12-29T09:15:58.657457"
+  },
+  "ohpe/juicy-potato": {
+    "last_commit": "744d321",
+    "last_tag": "v0.1",
+    "last_release": "v0.1",
+    "last_check": "2025-12-29T09:15:59.412468"
+  },
+  "One-Fox-Security-Team/One-Fox-T00ls": {
+    "last_commit": "044ff9c",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:15:59.708314"
+  },
+  "openai/grok": {
+    "last_commit": "3d64b1d",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:16:00.368453"
+  },
+  "OpenEthan/SMSBoom": {
+    "last_commit": "38ccbec",
+    "last_tag": "test",
+    "last_release": "main",
+    "last_check": "2025-12-29T09:16:01.596604"
+  },
+  "opsxin/markdown-notes": {
+    "last_commit": "8be0b20",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:16:01.884086"
+  },
+  "outflanknl/HelpColor": {
+    "last_commit": "e5e84ed",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:16:02.630434"
+  },
+  "outflanknl/RedELK": {
+    "last_commit": "f27ffa5",
+    "last_tag": "v2.0.0-beta.6",
+    "last_release": "v2.0.0-beta.6",
+    "last_check": "2025-12-29T09:16:03.900378"
+  },
+  "P001water/P1soda": {
+    "last_commit": "e98f437",
+    "last_tag": "v0.0.6",
+    "last_release": "v0.0.6",
+    "last_check": "2025-12-29T09:16:04.542340"
+  },
+  "P1-Team/AlliN": {
+    "last_commit": "3f5ec1c",
+    "last_tag": "v2.4.2",
+    "last_release": "v2.4.2",
+    "last_check": "2025-12-29T09:16:05.259602"
+  },
+  "paokuwansui/Antivirus_killer": {
+    "last_commit": "3ac45c7",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:16:05.562114"
+  },
+  "Pawdroid/Free-servers": {
+    "last_commit": "7db5d79",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:16:06.279151"
+  },
+  "PDWR/AVKiller": {
+    "last_commit": "9c81f3d",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:16:07.007875"
+  },
+  "peass-ng/PEASS-ng": {
+    "last_commit": "b4a1382",
+    "last_tag": "refs/pull/260/merge",
+    "last_release": "20251215-2904ebf1",
+    "last_check": "2025-12-29T09:16:08.224892"
+  },
+  "pen4uin/java-echo-generator": {
+    "last_commit": "d29d995",
+    "last_tag": "v1.0.0",
+    "last_release": "v1.0.0",
+    "last_check": "2025-12-29T09:16:08.983899"
+  },
+  "pen4uin/java-memshell-generator": {
+    "last_commit": "dab77b3",
+    "last_tag": "v1.0.9_250101",
+    "last_release": "v1.0.9_250101",
+    "last_check": "2025-12-29T09:16:09.650798"
+  },
+  "Pennyw0rth/NetExec": {
+    "last_commit": "6ae1f0b",
+    "last_tag": "v1.5.0",
+    "last_release": "v1.5.0",
+    "last_check": "2025-12-29T09:16:10.334300"
+  },
+  "petterobam/html2file": {
+    "last_commit": "978b983",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:16:10.582172"
+  },
+  "ph4ntonn/Stowaway": {
+    "last_commit": "c22010f",
+    "last_tag": "v2.2",
+    "last_release": "v2.2",
+    "last_check": "2025-12-29T09:16:11.739694"
+  },
+  "phachon/mm-wiki": {
+    "last_commit": "d976d0c",
+    "last_tag": "v0.2.1",
+    "last_release": "v0.2.1",
+    "last_check": "2025-12-29T09:16:12.471027"
+  },
+  "phink-team/Cobaltstrike-MS17-010": {
+    "last_commit": "fcd1d47",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:16:12.753750"
+  },
+  "pingc0y/go_proxy_pool": {
+    "last_commit": "9dd1ece",
+    "last_tag": "2022.11.22",
+    "last_release": "2022.11.22",
+    "last_check": "2025-12-29T09:16:13.992374"
+  },
+  "pingc0y/URLFinder": {
+    "last_commit": "e1c0334",
+    "last_tag": "2023.9.9",
+    "last_release": "2023.9.9",
+    "last_check": "2025-12-29T09:16:14.634684"
+  },
+  "PINGXcpost/F-NAScan-PLUS": {
+    "last_commit": "794534d",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:16:14.934895"
+  },
+  "pmiaowu/BurpShiroPassiveScan": {
+    "last_commit": "557679b",
+    "last_tag": "BurpShiroPassiveScan-2.0.0",
+    "last_release": "BurpShiroPassiveScan-2.0.0",
+    "last_check": "2025-12-29T09:16:16.170473"
+  },
+  "Ponderfly/GoogleTranslateIpCheck": {
+    "last_commit": "e84aee0",
+    "last_tag": "1.10",
+    "last_release": "1.10",
+    "last_check": "2025-12-29T09:16:16.823461"
+  },
+  "pot-app/pot-desktop": {
+    "last_commit": "50ab944",
+    "last_tag": "updater",
+    "last_release": "3.0.7",
+    "last_check": "2025-12-29T09:16:17.600216"
+  },
+  "Potato-py/ExportReport": {
+    "last_commit": "36802f2",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:16:17.885308"
+  },
+  "powerflio/phpshell": {
+    "last_commit": "95c4e58",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:16:18.650479"
+  },
+  "PowerShellMafia/PowerSploit": {
+    "last_commit": "d943001",
+    "last_tag": "v3.0.0",
+    "last_release": "v3.0.0",
+    "last_check": "2025-12-29T09:16:19.764676"
+  },
+  "Ppsoft1991/ChatViewTools": {
+    "last_commit": "ee88ed3",
+    "last_tag": "v1.0",
+    "last_release": "v1",
+    "last_check": "2025-12-29T09:16:20.608211"
+  },
+  "projectdiscovery/httpx": {
+    "last_commit": "7f9403e",
+    "last_tag": "v1.7.4",
+    "last_release": "v1.7.4",
+    "last_check": "2025-12-29T09:16:21.303134"
+  },
+  "projectdiscovery/naabu": {
+    "last_commit": "e3349aa",
+    "last_tag": "v2.3.7",
+    "last_release": "v2.3.7",
+    "last_check": "2025-12-29T09:16:22.077122"
+  },
+  "projectdiscovery/nuclei": {
+    "last_commit": "2d3168b",
+    "last_tag": "v3.6.1",
+    "last_release": "v3.6.1",
+    "last_check": "2025-12-29T09:16:22.722261"
+  },
+  "projectdiscovery/subfinder": {
+    "last_commit": "2e0982c",
+    "last_tag": "v2.11.0",
+    "last_release": "v2.11.0",
+    "last_check": "2025-12-29T09:16:23.421206"
+  },
+  "projectdiscovery/uncover": {
+    "last_commit": "b01669e",
+    "last_tag": "v1.2.0",
+    "last_release": "v1.2.0",
+    "last_check": "2025-12-29T09:16:24.153840"
+  },
+  "pureqh/Hyacinth": {
+    "last_commit": "59ae94b",
+    "last_tag": "hyacinth-v2.1",
+    "last_release": "hyacinth-v2.0.1",
+    "last_check": "2025-12-29T09:16:24.857567"
+  },
+  "pykiller/API-T00L": {
+    "last_commit": "d7d612d",
+    "last_tag": "v1.3",
+    "last_release": "v1.3",
+    "last_check": "2025-12-29T09:16:25.602862"
+  },
+  "pyroxenites/SpringScan": {
+    "last_commit": "aa462d5",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:16:25.893774"
+  },
+  "Python3WebSpider/ProxyPool": {
+    "last_commit": "3ed558b",
+    "last_tag": "build-number-19",
+    "last_release": "20230301",
+    "last_check": "2025-12-29T09:16:27.042719"
+  },
+  "qd-today/templates": {
+    "last_commit": "16856d2",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:16:27.286934"
+  },
+  "qianxiao996/BurpSuite-FrameScan": {
+    "last_commit": "4c6e3e4",
+    "last_tag": "v2.7",
+    "last_release": "v2.7",
+    "last_check": "2025-12-29T09:16:28.669825"
+  },
+  "qishibo/AnotherRedisDesktopManager": {
+    "last_commit": "4c2b7a5",
+    "last_tag": "v1.7.1",
+    "last_release": "v1.7.1",
+    "last_check": "2025-12-29T09:16:29.339895"
+  },
+  "qiwentaidi/Slack": {
+    "last_commit": "fd676f3",
+    "last_tag": "Slack2.2.5",
+    "last_release": "Slack2.2.5",
+    "last_check": "2025-12-29T09:16:30.006911"
+  },
+  "qtgolang/SunnyNetTools": {
+    "last_commit": "fc2f73c",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:16:30.292954"
+  },
+  "r00tSe7en/Flash-Pop": {
+    "last_commit": "5627509",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:16:31.032328"
+  },
+  "r00tSe7en/get_AV": {
+    "last_commit": "fa6878a",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:16:31.774113"
+  },
+  "r0oth3x49/ghauri": {
+    "last_commit": "18e3677",
+    "last_tag": "v1.0.5",
+    "last_release": "1.4.3",
+    "last_check": "2025-12-29T09:16:33.197971"
+  },
+  "r1is/CVE-2022-0847": {
+    "last_commit": "ef8c803",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:16:33.476407"
+  },
+  "R4gd0ll/I-Wanna-Get-All": {
+    "last_commit": "278f3b3",
+    "last_tag": "I-Wanna-Get-All-vFinal-patch1",
+    "last_release": "I-Wanna-Get-All-vFinal-patch1",
+    "last_check": "2025-12-29T09:16:34.605341"
+  },
+  "rabbitmask/Libra": {
+    "last_commit": "69e5b49",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:16:34.880147"
+  },
+  "raspberryhusky/antiVirusCheck": {
+    "last_commit": "f54b9ee",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:16:35.670735"
+  },
+  "rea-tool/proxy-minging": {
+    "last_commit": "cf48411",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:16:36.400999"
+  },
+  "ReaJason/MemShellParty": {
+    "last_commit": "cbfa3ba",
+    "last_tag": "v2.4.1",
+    "last_release": "v2.4.1",
+    "last_check": "2025-12-29T09:16:37.778155"
+  },
+  "rebootuser/LinEnum": {
+    "last_commit": "c47f9b2",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:16:38.050270"
+  },
+  "RedSiege/C2concealer": {
+    "last_commit": "1b78983",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:16:38.746731"
+  },
+  "redtoolskobe/scaninfo": {
+    "last_commit": "c381bbc",
+    "last_tag": "v1.1.0",
+    "last_release": "v1.1.0",
+    "last_check": "2025-12-29T09:16:40.024106"
+  },
+  "ResidualLaugh/FindSomething": {
+    "last_commit": "f125a18",
+    "last_tag": "2.0.1",
+    "last_release": null,
+    "last_check": "2025-12-29T09:16:40.578113"
+  },
+  "Ridter/Intranet_Penetration_Tips": {
+    "last_commit": "88d974b",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:16:41.019436"
+  },
+  "RipplePiam/MobaXterm-Chinese-Simplified": {
+    "last_commit": "d022abb",
+    "last_tag": "v0.24.3.10",
+    "last_release": "v0.24.3.10",
+    "last_check": "2025-12-29T09:16:42.077386"
+  },
+  "roadwy/DefenderYara": {
+    "last_commit": "3b097c8",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:16:42.355566"
+  },
+  "robertdavidgraham/masscan": {
+    "last_commit": "b99d433",
+    "last_tag": "v2",
+    "last_release": "1.3.2",
+    "last_check": "2025-12-29T09:16:43.621618"
+  },
+  "rofl0r/proxychains-ng": {
+    "last_commit": "979bfef",
+    "last_tag": "v4.17",
+    "last_release": "v4.17",
+    "last_check": "2025-12-29T09:16:44.265052"
+  },
+  "RowTeam/SharpDecryptPwd": {
+    "last_commit": "b94f66e",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:16:44.528955"
+  },
+  "RowTeam/SharpSQLTools": {
+    "last_commit": "b91c422",
+    "last_tag": "新版本",
+    "last_release": "新版本",
+    "last_check": "2025-12-29T09:16:45.888440"
+  },
+  "RROrg/rr": {
+    "last_commit": "da4d612",
+    "last_tag": "25.12.0",
+    "last_release": "25.12.0",
+    "last_check": "2025-12-29T09:16:46.605007"
+  },
+  "rsmudge/Malleable-C2-Profiles": {
+    "last_commit": "2632378",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:16:46.883913"
+  },
+  "rtcatc/Packer-Fuzzer": {
+    "last_commit": "bd7c980",
+    "last_tag": "v1.4.8",
+    "last_release": "v1.4",
+    "last_check": "2025-12-29T09:16:47.961676"
+  },
+  "RuanLang0777/Unauthorized": {
+    "last_commit": "a144fc5",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:16:48.226584"
+  },
+  "RuoJi6/DarKnuclei": {
+    "last_commit": "6958a46",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:16:48.895516"
+  },
+  "RuoJi6/HackerPermKeeper": {
+    "last_commit": "5359ff4",
+    "last_tag": "v2.3.3",
+    "last_release": "v2.3.3",
+    "last_check": "2025-12-29T09:16:50.472555"
+  },
+  "RuoJi6/xxl-job-FLM": {
+    "last_commit": "f9eabce",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:16:50.692611"
+  },
+  "RustScan/RustScan": {
+    "last_commit": "1b74455",
+    "last_tag": "untagged-544fc861a2260fa82810",
+    "last_release": "2.4.1",
+    "last_check": "2025-12-29T09:16:52.097091"
+  },
+  "Rvn0xsy/BadCode": {
+    "last_commit": "801105e",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:16:52.300015"
+  },
+  "Rvn0xsy/CVE-2021-3156-plus": {
+    "last_commit": "90fa57c",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:16:53.017903"
+  },
+  "Ryze-T/Sylas": {
+    "last_commit": "8422e25",
+    "last_tag": "beta",
+    "last_release": "beta",
+    "last_check": "2025-12-29T09:16:54.202711"
+  },
+  "s7ckTeam/LeakFinder": {
+    "last_commit": "9332e2b",
+    "last_tag": "0.3.0",
+    "last_release": "0.0.3",
+    "last_check": "2025-12-29T09:16:54.948514"
+  },
+  "safe6Sec/command": {
+    "last_commit": "6844168",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:16:55.178812"
+  },
+  "safe6Sec/Fastjson": {
+    "last_commit": "1cd69d5",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:16:55.835768"
+  },
+  "safe6Sec/ShiroExp": {
+    "last_commit": "89ecd76",
+    "last_tag": "v1.3.1",
+    "last_release": "v1.3.1",
+    "last_check": "2025-12-29T09:16:56.991883"
+  },
+  "safebuffer/sam-the-admin": {
+    "last_commit": "1745bc9",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:16:57.245586"
+  },
+  "SafeGroceryStore/MDUT": {
+    "last_commit": "d9af1b1",
+    "last_tag": "v2.1.1",
+    "last_release": "v2.1.1",
+    "last_check": "2025-12-29T09:16:58.412370"
+  },
+  "sAjibuu/Upload_Bypass": {
+    "last_commit": "ec90bc0",
+    "last_tag": "v3.0.9#dev",
+    "last_release": "v3.0.9#dev",
+    "last_check": "2025-12-29T09:16:59.106790"
+  },
+  "saoshao/DetSql": {
+    "last_commit": "274b2b2",
+    "last_tag": "3.3.0",
+    "last_release": "3.3.0",
+    "last_check": "2025-12-29T09:16:59.731989"
+  },
+  "satan1a/TheRoadOfSO": {
+    "last_commit": "a041e5e",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:16:59.984738"
+  },
+  "savior-only/Spring_All_Reachable": {
+    "last_commit": "4013125",
+    "last_tag": "v2.1",
+    "last_release": "v2.1",
+    "last_check": "2025-12-29T09:17:01.082630"
+  },
+  "Schira4396/VcenterKiller": {
+    "last_commit": "f0138d4",
+    "last_tag": "v1.3.7",
+    "last_release": "v1.3.7",
+    "last_check": "2025-12-29T09:17:01.731089"
+  },
+  "ScriptKid-Beta/WebBatchRequest": {
+    "last_commit": "230fe6b",
+    "last_tag": "v1.4",
+    "last_release": "v1.4",
+    "last_check": "2025-12-29T09:17:02.467305"
+  },
+  "se55i0n/DBScanner": {
+    "last_commit": "e6c4a89",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:17:02.768670"
+  },
+  "Sec-Fork/SwordHost": {
+    "last_commit": "a19b478",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:17:03.485348"
+  },
+  "sec-report/SecReport": {
+    "last_commit": "4675fec",
+    "last_tag": "v3.1.0",
+    "last_release": "v3.1.0",
+    "last_check": "2025-12-29T09:17:04.975923"
+  },
+  "Security-Magic-Weapon/HKTools": {
+    "last_commit": "3dbbd6d",
+    "last_tag": "2.0",
+    "last_release": "2.0",
+    "last_check": "2025-12-29T09:17:05.822074"
+  },
+  "SecWiki/sec-chart": {
+    "last_commit": "2fc8109",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:17:06.067534"
+  },
+  "seczzq/Encryption_blind_blasting": {
+    "last_commit": "be13999",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:17:06.790295"
+  },
+  "selinuxG/Golin": {
+    "last_commit": "6ace334",
+    "last_tag": "1.2.9",
+    "last_release": "1.2.9",
+    "last_check": "2025-12-29T09:17:07.915738"
+  },
+  "sensepost/rattler": {
+    "last_commit": "3905ba7",
+    "last_tag": "v1.0",
+    "last_release": "v1.0",
+    "last_check": "2025-12-29T09:17:08.653991"
+  },
+  "SexyBeast233/SecDictionary": {
+    "last_commit": "db2b8ac",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:17:08.875341"
+  },
+  "shadow1ng/fscan": {
+    "last_commit": "6b13b2e",
+    "last_tag": "v2.2.0",
+    "last_release": "1.8.4",
+    "last_check": "2025-12-29T09:17:09.977688"
+  },
+  "shadowsocks/shadowsocks-android": {
+    "last_commit": "48c1722",
+    "last_tag": "v5.3.4",
+    "last_release": "v5.3.4",
+    "last_check": "2025-12-29T09:17:10.627174"
+  },
+  "shadowsocks/shadowsocks-windows": {
+    "last_commit": "891d971",
+    "last_tag": "4.4.1.0",
+    "last_release": "4.4.1.0",
+    "last_check": "2025-12-29T09:17:11.504356"
+  },
+  "shadowsocks/ShadowsocksX-NG": {
+    "last_commit": "719203a",
+    "last_tag": "v1.10.3",
+    "last_release": "v1.10.3",
+    "last_check": "2025-12-29T09:17:12.140033"
+  },
+  "shanfenglan/test": {
+    "last_commit": "2121bd9",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:17:12.476843"
+  },
+  "shimmeris/SCFProxy": {
+    "last_commit": "cdfc902",
+    "last_tag": "v0.2.1",
+    "last_release": "v0.2.1",
+    "last_check": "2025-12-29T09:17:13.568957"
+  },
+  "shmilylty/netspy": {
+    "last_commit": "fe302cb",
+    "last_tag": "v0.0.5",
+    "last_release": "v0.0.5",
+    "last_check": "2025-12-29T09:17:14.280358"
+  },
+  "shmilylty/OneForAll": {
+    "last_commit": "186532e",
+    "last_tag": "v0.4.5",
+    "last_release": "v0.4.5",
+    "last_check": "2025-12-29T09:17:14.896920"
+  },
+  "shmilylty/SharpHostInfo": {
+    "last_commit": "e235e4e",
+    "last_tag": "v0.0.1",
+    "last_release": "v0.0.1",
+    "last_check": "2025-12-29T09:17:15.816902"
+  },
+  "shuanx/BurpAPIFinder": {
+    "last_commit": "1f29859",
+    "last_tag": "v2.0",
+    "last_release": "v2.0",
+    "last_check": "2025-12-29T09:17:16.429670"
+  },
+  "sibyl98/HACK-NET": {
+    "last_commit": "3f292f2",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:17:16.769653"
+  },
+  "skylot/jadx": {
+    "last_commit": "7bbb588",
+    "last_tag": "v1.5.3",
+    "last_release": "v1.5.3",
+    "last_check": "2025-12-29T09:17:17.819426"
+  },
+  "sma11new/Pyke-Shiro": {
+    "last_commit": "334c46b",
+    "last_tag": "0.3",
+    "last_release": "0.3",
+    "last_check": "2025-12-29T09:17:18.485288"
+  },
+  "sml2h3/ddddocr": {
+    "last_commit": "bdb2cb0",
+    "last_tag": "main",
+    "last_release": null,
+    "last_check": "2025-12-29T09:17:18.954294"
+  },
+  "smxiazi/NEW_xp_CAPTCHA": {
+    "last_commit": "5acf923",
+    "last_tag": "4.3",
+    "last_release": "4.3",
+    "last_check": "2025-12-29T09:17:19.816982"
+  },
+  "smxiazi/xia_sql": {
+    "last_commit": "d9cf960",
+    "last_tag": "3.3",
+    "last_release": "3.3",
+    "last_check": "2025-12-29T09:17:20.499388"
+  },
+  "smxiazi/xp_CAPTCHA": {
+    "last_commit": "40492c2",
+    "last_tag": "2.2",
+    "last_release": "2.2",
+    "last_check": "2025-12-29T09:17:21.221098"
+  },
+  "snoopysecurity/awesome-burp-extensions": {
+    "last_commit": "48325f6",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:17:21.458166"
+  },
+  "sqlmapproject/sqlmap": {
+    "last_commit": "8be94b4",
+    "last_tag": "1.9.12",
+    "last_release": "1.9",
+    "last_check": "2025-12-29T09:17:22.502264"
+  },
+  "StarCrossPortal/scalpel": {
+    "last_commit": "7da815e",
+    "last_tag": "0.02",
+    "last_release": "0.0.3",
+    "last_check": "2025-12-29T09:17:23.288575"
+  },
+  "StudyCat404/domain2ip": {
+    "last_commit": "1dcd30d",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:17:23.583015"
+  },
+  "su18/Stitch": {
+    "last_commit": "9b2bd9e",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:17:24.251199"
+  },
+  "suizhibo/MemShellKiller": {
+    "last_commit": "703ed10",
+    "last_tag": "Alpha",
+    "last_release": "Alpha",
+    "last_check": "2025-12-29T09:17:25.400153"
+  },
+  "sujianqingfeng/jianshu_parse": {
+    "last_commit": "9084b0b",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:17:25.675568"
+  },
+  "sulab999/AppMessenger": {
+    "last_commit": "16ed8a0",
+    "last_tag": "v4.6.3",
+    "last_release": "v0.5.6",
+    "last_check": "2025-12-29T09:17:26.849826"
+  },
+  "SuLingGG/OpenWrt-Rpi": {
+    "last_commit": "e9cba85",
+    "last_tag": "x86-64",
+    "last_release": "x86-64",
+    "last_check": "2025-12-29T09:17:27.566258"
+  },
+  "SummerSec/AgentInjectTool": {
+    "last_commit": "6d576ee",
+    "last_tag": "1.2",
+    "last_release": "1.2",
+    "last_check": "2025-12-29T09:17:28.294889"
+  },
+  "SummerSec/ShiroAttack2": {
+    "last_commit": "5be73d5",
+    "last_tag": "4.7.0",
+    "last_release": "4.7.0",
+    "last_check": "2025-12-29T09:17:28.991219"
+  },
+  "SummerSec/SpringExploit": {
+    "last_commit": "d9c3df7",
+    "last_tag": "0.1.9",
+    "last_release": "0.1.9",
+    "last_check": "2025-12-29T09:17:29.701439"
+  },
+  "sundowndev/phoneinfoga": {
+    "last_commit": "ef8c764",
+    "last_tag": "v2.11.0",
+    "last_release": "v2.11.0",
+    "last_check": "2025-12-29T09:17:30.387084"
+  },
+  "swisskyrepo/PayloadsAllTheThings": {
+    "last_commit": "39da032",
+    "last_tag": "4.2",
+    "last_release": "4.2",
+    "last_check": "2025-12-29T09:17:31.031640"
+  },
+  "syunaht/burp-UnicodeAutoDecode": {
+    "last_commit": "84d929d",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:17:31.348536"
+  },
+  "syyu6/WinRpcTest": {
+    "last_commit": "5c231ca",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:17:32.024261"
+  },
+  "t3l3machus/Villain": {
+    "last_commit": "87e5dd1",
+    "last_tag": "v2.2.0",
+    "last_release": "V2.2.1",
+    "last_check": "2025-12-29T09:17:33.115118"
+  },
+  "T4y1oR/RingQ": {
+    "last_commit": "b72ec43",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:17:33.373512"
+  },
+  "tanjiti/sec_profile": {
+    "last_commit": "5c31c85",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:17:34.085734"
+  },
+  "taomujian/linbing": {
+    "last_commit": "adb0e42",
+    "last_tag": "v3.0",
+    "last_release": "v3.0",
+    "last_check": "2025-12-29T09:17:35.389543"
+  },
+  "Tas9er/ByPassBehinder": {
+    "last_commit": "c9bf4a7",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:17:35.656210"
+  },
+  "Tas9er/ByPassBehinder4J": {
+    "last_commit": "0ac5d61",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:17:36.380303"
+  },
+  "tdragon6/Supershell": {
+    "last_commit": "a3b4e2a",
+    "last_tag": "v2.0.0",
+    "last_release": "v2.0.0",
+    "last_check": "2025-12-29T09:17:37.454953"
+  },
+  "team-ide/teamide": {
+    "last_commit": "81f1b71",
+    "last_tag": "v2.6.38",
+    "last_release": "v2.6.38",
+    "last_check": "2025-12-29T09:17:38.154498"
+  },
+  "teamdArk5/FscanParser": {
+    "last_commit": "c89e7de",
+    "last_tag": "v1.3.4",
+    "last_release": "2.3",
+    "last_check": "2025-12-29T09:17:38.926616"
+  },
+  "teamssix/awesome-cloud-security": {
+    "last_commit": "91d259b",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:17:39.194477"
+  },
+  "telegramdesktop/tdesktop": {
+    "last_commit": "5739a37",
+    "last_tag": "v6.3.10",
+    "last_release": "v6.3.9",
+    "last_check": "2025-12-29T09:17:40.420411"
+  },
+  "tennc/webshell": {
+    "last_commit": "6b17eae",
+    "last_tag": "v-2021-01-05",
+    "last_release": "v-2021-01-05",
+    "last_check": "2025-12-29T09:17:41.133458"
+  },
+  "testnet0/testnet": {
+    "last_commit": "4603c6c",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:17:41.377275"
+  },
+  "testzboy/FlashSearch": {
+    "last_commit": "b6ee599",
+    "last_tag": "2.0",
+    "last_release": "2.0",
+    "last_check": "2025-12-29T09:17:42.480864"
+  },
+  "Testzero-wz/analog": {
+    "last_commit": "ed499a7",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:17:42.808960"
+  },
+  "tgkbase/shegongku": {
+    "last_commit": "a2f3388",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:17:43.496845"
+  },
+  "The-Z-Labs/linux-exploit-suggester": {
+    "last_commit": "2063aeb",
+    "last_tag": "v1.1",
+    "last_release": null,
+    "last_check": "2025-12-29T09:17:44.375736"
+  },
+  "TheKingOfDuck/ApkAnalyser": {
+    "last_commit": "9d5e996",
+    "last_tag": "1.0",
+    "last_release": null,
+    "last_check": "2025-12-29T09:17:45.088454"
+  },
+  "TheKingOfDuck/fuzzDicts": {
+    "last_commit": "0652d65",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:17:45.528883"
+  },
+  "TheKingOfDuck/MySQLMonitor": {
+    "last_commit": "6c1631d",
+    "last_tag": "1.0",
+    "last_release": "1.0",
+    "last_check": "2025-12-29T09:17:46.731130"
+  },
+  "TheKingOfDuck/XSS-Fishing2-CS": {
+    "last_commit": "91686c3",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:17:47.025924"
+  },
+  "theLSA/ueditor-getshell": {
+    "last_commit": "f6d41b6",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:17:47.717173"
+  },
+  "threat9/routersploit": {
+    "last_commit": "0bf837f",
+    "last_tag": "v3.4.7",
+    "last_release": "v3.4.0",
+    "last_check": "2025-12-29T09:17:48.940464"
+  },
+  "threatexpress/cs2modrewrite": {
+    "last_commit": "880308f",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:17:49.224688"
+  },
+  "threatexpress/malleable-c2": {
+    "last_commit": "a08f7b2",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:17:49.919272"
+  },
+  "threedr3am/learnjavabug": {
+    "last_commit": "3f7fe9d",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:17:50.578028"
+  },
+  "Threekiii/Awesome-POC": {
+    "last_commit": "cc443bb",
+    "last_tag": "v1.0",
+    "last_release": "v1.0",
+    "last_check": "2025-12-29T09:17:51.566132"
+  },
+  "Threekiii/Vulnerability-Wiki": {
+    "last_commit": "ce31ef0",
+    "last_tag": "v2.0",
+    "last_release": "v2.0",
+    "last_check": "2025-12-29T09:17:52.229099"
+  },
+  "Threezh1/JSFinder": {
+    "last_commit": "d70ab9b",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:17:52.487308"
+  },
+  "tide-emergency/yingji": {
+    "last_commit": "5be2943",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:17:53.175484"
+  },
+  "TideSec/BypassAntiVirus": {
+    "last_commit": "b12d398",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:17:53.816800"
+  },
+  "TideSec/GoBypassAV": {
+    "last_commit": "8fcd18d",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:17:54.518089"
+  },
+  "timwhitez/crawlergo_x_XRAY": {
+    "last_commit": "4029d4e",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:17:55.139899"
+  },
+  "timwhitez/timwhitez": {
+    "last_commit": "12761e6",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:17:55.950325"
+  },
+  "tmd2018/Micro8-Gitbook": {
+    "last_commit": "5fd312c",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:17:56.640294"
+  },
+  "topjohnwu/Magisk": {
+    "last_commit": "01cb75e",
+    "last_tag": "v30.6",
+    "last_release": "v30.6",
+    "last_check": "2025-12-29T09:17:57.772412"
+  },
+  "trufflesecurity/trufflehog": {
+    "last_commit": "a633174",
+    "last_tag": "v3.92.4",
+    "last_release": "v3.92.4",
+    "last_check": "2025-12-29T09:17:58.488729"
+  },
+  "TryGOTry/AutoGeaconC2": {
+    "last_commit": "f6499f5",
+    "last_tag": "AutoGeaconC2",
+    "last_release": "AutoGeaconC2",
+    "last_check": "2025-12-29T09:17:59.191732"
+  },
+  "TryGOTry/CobaltStrike_Cat_4.5": {
+    "last_commit": null,
+    "last_tag": null,
+    "last_release": null,
+    "last_check": null
+  },
+  "tuian/hacking-script": {
+    "last_commit": "8e768ce",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:18:00.034176"
+  },
+  "uknowsec/Active-Directory-Pentest-Notes": {
+    "last_commit": "fd94b0a",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:18:01.056113"
+  },
+  "uknowsec/frpModify": {
+    "last_commit": "25fdd32",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:18:01.812321"
+  },
+  "uknowsec/JuicyPotato": {
+    "last_commit": "793e282",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:18:02.505507"
+  },
+  "uknowsec/SharpAVKB": {
+    "last_commit": "fbbe7bd",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:18:03.231537"
+  },
+  "uknowsec/SharpSQLTools": {
+    "last_commit": "0b1413b",
+    "last_tag": "41",
+    "last_release": "41",
+    "last_check": "2025-12-29T09:18:04.459015"
+  },
+  "upx/upx": {
+    "last_commit": "8c1dc39",
+    "last_tag": "v5.0.2",
+    "last_release": "v5.0.2",
+    "last_check": "2025-12-29T09:18:05.142900"
+  },
+  "userdocs/qbittorrent-nox-static": {
+    "last_commit": "5802755",
+    "last_tag": "release-5.1.4_v2.0.11",
+    "last_release": "release-5.1.4_v2.0.11",
+    "last_check": "2025-12-29T09:18:05.917620"
+  },
+  "UzJu/Cloud-Bucket-Leak-Detection-Tools": {
+    "last_commit": "3f8a953",
+    "last_tag": "v0.4.0",
+    "last_release": "v0.4.0",
+    "last_check": "2025-12-29T09:18:06.867338"
+  },
+  "v2fly/v2ray-core": {
+    "last_commit": "d771982",
+    "last_tag": "v5.42.0",
+    "last_release": "v5.41.0",
+    "last_check": "2025-12-29T09:18:07.709499"
+  },
+  "veo/vscan": {
+    "last_commit": "1beb10c",
+    "last_tag": "v2.1.0",
+    "last_release": "v2.1.0",
+    "last_check": "2025-12-29T09:18:08.486421"
+  },
+  "VirusTotal/yara": {
+    "last_commit": "646cf50",
+    "last_tag": "v4.5.5",
+    "last_release": "v4.5.5",
+    "last_check": "2025-12-29T09:18:09.258830"
+  },
+  "VMsec/ihoneyBakFileScan_Modify": {
+    "last_commit": "76c5611",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:18:09.514682"
+  },
+  "vrana/adminer": {
+    "last_commit": "e6be479",
+    "last_tag": "v5.4.1",
+    "last_release": "v5.4.1",
+    "last_check": "2025-12-29T09:18:10.610805"
+  },
+  "vulhub/vulhub": {
+    "last_commit": "ab9395f",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:18:10.866587"
+  },
+  "vuln000/Sec-Yourself": {
+    "last_commit": "f957dc5",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:18:11.559200"
+  },
+  "vvmdx/Sec-Interview-4-2023": {
+    "last_commit": "5f5555b",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:18:12.251471"
+  },
+  "vxunderground/MalwareSourceCode": {
+    "last_commit": "f642487",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:18:12.920219"
+  },
+  "W01fh4cker/LearnJavaMemshellFromZero": {
+    "last_commit": "c1331ec",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:18:13.593909"
+  },
+  "WangYihang/Platypus": {
+    "last_commit": "0cb1673",
+    "last_tag": "v1.5.1",
+    "last_release": "v1.5.0",
+    "last_check": "2025-12-29T09:18:14.931430"
+  },
+  "weishen250/Read_Path": {
+    "last_commit": "6aedab8",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:18:15.217848"
+  },
+  "wgpsec/ENScan": {
+    "last_commit": "eb67add",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:18:15.942756"
+  },
+  "wgpsec/ENScan_GO": {
+    "last_commit": "dabb723",
+    "last_tag": "v2.0.4",
+    "last_release": "v2.0.4",
+    "last_check": "2025-12-29T09:18:17.097610"
+  },
+  "wgpsec/fofa_viewer": {
+    "last_commit": "ff2848a",
+    "last_tag": "1.1.16",
+    "last_release": "1.1.16",
+    "last_check": "2025-12-29T09:18:17.747293"
+  },
+  "wgpsec/VulnRange": {
+    "last_commit": "3ec426e",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:18:18.048841"
+  },
+  "wh1t3zer/SpringBootVul-GUI": {
+    "last_commit": "2fd44cc",
+    "last_tag": "v0.0.16",
+    "last_release": "v0.0.16",
+    "last_check": "2025-12-29T09:18:19.210220"
+  },
+  "White-hua/Apt_t00ls": {
+    "last_commit": "d19c72d",
+    "last_tag": "v0.7",
+    "last_release": "v0.7",
+    "last_check": "2025-12-29T09:18:19.949189"
+  },
+  "whwlsfb/JDumpSpider": {
+    "last_commit": "24fe318",
+    "last_tag": "dev-20250409T071858",
+    "last_release": "dev-20250409T071858",
+    "last_check": "2025-12-29T09:18:20.549788"
+  },
+  "wichue/nethello": {
+    "last_commit": "164992e",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:18:20.838320"
+  },
+  "wikiZ/RedGuard": {
+    "last_commit": "588f3fa",
+    "last_tag": "24.06.18",
+    "last_release": "24.06.18",
+    "last_check": "2025-12-29T09:18:22.003744"
+  },
+  "WindXaa/Android-Reverse-interview": {
+    "last_commit": "0462b9f",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:18:22.261281"
+  },
+  "WindXaa/Android-Vulnerability-Mining": {
+    "last_commit": "2d00146",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:18:23.000613"
+  },
+  "winezer0/CrackCaptchaLogin_Plus": {
+    "last_commit": "55a89e6",
+    "last_tag": "v4.0.2",
+    "last_release": "v4.0.2",
+    "last_check": "2025-12-29T09:18:24.555315"
+  },
+  "winezer0/whatweb-plus": {
+    "last_commit": "b02417a",
+    "last_tag": "v0.5.5.20",
+    "last_release": "v0.5.5.20",
+    "last_check": "2025-12-29T09:18:25.258659"
+  },
+  "wjl110/CVE-Master": {
+    "last_commit": "478138f",
+    "last_tag": "v1.0.1",
+    "last_release": "v1.0.1",
+    "last_check": "2025-12-29T09:18:26.109728"
+  },
+  "worawit/CVE-2021-3156": {
+    "last_commit": "bcf8296",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:18:26.353082"
+  },
+  "Wrong-pixel/inforgation": {
+    "last_commit": "48858a2",
+    "last_tag": "v1.2",
+    "last_release": "v1.2",
+    "last_check": "2025-12-29T09:18:27.624602"
+  },
+  "WSP-LAB/FUSE": {
+    "last_commit": "7dd3a8e",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:18:27.875374"
+  },
+  "wux1an/wxapkg": {
+    "last_commit": "f5fa005",
+    "last_tag": "v1.5.0",
+    "last_release": "v1.5.0",
+    "last_check": "2025-12-29T09:18:29.056590"
+  },
+  "wwl012345/AVCheck": {
+    "last_commit": "9cf9eeb",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:18:29.377228"
+  },
+  "wyzxxz/aksk_tool": {
+    "last_commit": "4c27065",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:18:30.098369"
+  },
+  "wyzxxz/heapdump_tool": {
+    "last_commit": "5aa971f",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:18:30.926126"
+  },
+  "wyzxxz/jndi_tool": {
+    "last_commit": "0596e2e",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:18:31.670622"
+  },
+  "wyzxxz/shiro_rce_tool": {
+    "last_commit": "bee262b",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:18:32.501399"
+  },
+  "x0rz4/Flash_fishing": {
+    "last_commit": "5b305ea",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:18:34.513844"
+  },
+  "x0rz4/Windows-Fuck": {
+    "last_commit": "3b2e2d4",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:18:35.230884"
+  },
+  "xfiftyone/xTools": {
+    "last_commit": "dcddac1",
+    "last_tag": "v1.0",
+    "last_release": null,
+    "last_check": "2025-12-29T09:18:36.178745"
+  },
+  "xgit01/sgkrank": {
+    "last_commit": "0de19fd",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:18:36.645007"
+  },
+  "xiaogang000/XG_NTAI": {
+    "last_commit": "1117f0f",
+    "last_tag": "v1.6",
+    "last_release": "V2.6",
+    "last_check": "2025-12-29T09:18:37.961823"
+  },
+  "xiaokp7/TongdaOATool": {
+    "last_commit": "508e4e5",
+    "last_tag": "v1.6",
+    "last_release": "v1.6",
+    "last_check": "2025-12-29T09:18:38.652306"
+  },
+  "xiaoqidun/phpcp": {
+    "last_commit": "e31d48c",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:18:38.945711"
+  },
+  "XiaoTouMingyo/PentesterTools": {
+    "last_commit": null,
+    "last_tag": null,
+    "last_release": null,
+    "last_check": null
+  },
+  "xiecat/fofax": {
+    "last_commit": "b95bd12",
+    "last_tag": "v0.1.47",
+    "last_release": "v0.1.47",
+    "last_check": "2025-12-29T09:18:40.883795"
+  },
+  "xinxin999/My-Summarizing": {
+    "last_commit": "a0f1a52",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:18:41.178089"
+  },
+  "XuCcc/VulEnv": {
+    "last_commit": "2467537",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:18:41.892594"
+  },
+  "xugaoyi/vuepress-theme-vdoing": {
+    "last_commit": "d77b420",
+    "last_tag": "v1.12.8-v1.12.9",
+    "last_release": "v1.12.8-v1.12.9",
+    "last_check": "2025-12-29T09:18:42.983439"
+  },
+  "xxf098/LiteSpeedTest": {
+    "last_commit": "12c69f3",
+    "last_tag": "v0.15.0",
+    "last_release": "v0.15.0",
+    "last_check": "2025-12-29T09:18:43.662203"
+  },
+  "xxf098/shadowsocksr-v2ray-trojan-android": {
+    "last_commit": "84e5d67",
+    "last_tag": "v3.8.23",
+    "last_release": "v3.8.23",
+    "last_check": "2025-12-29T09:18:44.343504"
+  },
+  "xykt/IPQuality": {
+    "last_commit": "9dbcf07",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:18:44.589107"
+  },
+  "Xyntax/1000php": {
+    "last_commit": "b037d2b",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:18:45.278132"
+  },
+  "xzajyjs/CVE-2022-39197-POC": {
+    "last_commit": "e369696",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:18:45.971971"
+  },
+  "xzajyjs/ThunderSearch": {
+    "last_commit": "42b77d5",
+    "last_tag": "v2.5.1",
+    "last_release": "v2.5.1",
+    "last_check": "2025-12-29T09:18:47.061432"
+  },
+  "Y4tacker/JavaSec": {
+    "last_commit": "a6e0f8c",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:18:47.313565"
+  },
+  "yaklang/yakit": {
+    "last_commit": "3f44984",
+    "last_tag": "v1.12.26-render",
+    "last_release": "v1.4.5-1226",
+    "last_check": "2025-12-29T09:18:48.543203"
+  },
+  "Yang1k/upload-labs-Pass16": {
+    "last_commit": "9113cd1",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:18:48.894827"
+  },
+  "ybdt/evasion-hub": {
+    "last_commit": "c682d25",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:18:49.568079"
+  },
+  "ybdt/misc-hub": {
+    "last_commit": "ab4f9d2",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:18:50.262006"
+  },
+  "yehongzhi/learningSummary": {
+    "last_commit": "c8117ef",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:18:51.023033"
+  },
+  "YerongAI/Office-Tool": {
+    "last_commit": "d98aecf",
+    "last_tag": "v10.29.50.0",
+    "last_release": "v10.29.50.0",
+    "last_check": "2025-12-29T09:18:52.111327"
+  },
+  "yhy0/ExpDemo-JavaFX": {
+    "last_commit": "b6901ef",
+    "last_tag": "V1.8",
+    "last_release": null,
+    "last_check": "2025-12-29T09:18:52.590505"
+  },
+  "yisier/nps": {
+    "last_commit": "b821409",
+    "last_tag": "v100.26.10",
+    "last_release": "v0.26.28",
+    "last_check": "2025-12-29T09:18:53.581315"
+  },
+  "yogeshojha/rengine": {
+    "last_commit": "de41992",
+    "last_tag": "v2.2.0",
+    "last_release": "v2.2.0",
+    "last_check": "2025-12-29T09:18:54.262729"
+  },
+  "yqcs/prismx": {
+    "last_commit": "a8b55ce",
+    "last_tag": "latest",
+    "last_release": "latest",
+    "last_check": "2025-12-29T09:18:54.917379"
+  },
+  "yqcs/ZheTian": {
+    "last_commit": "1f7dc66",
+    "last_tag": "v3",
+    "last_release": "v3",
+    "last_check": "2025-12-29T09:18:55.670102"
+  },
+  "YS11i/JSFinderAAA": {
+    "last_commit": "8f742f9",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:18:55.931364"
+  },
+  "ysrc/xunfeng": {
+    "last_commit": "40d40ec",
+    "last_tag": "v0.2.0",
+    "last_release": "v0.1.1",
+    "last_check": "2025-12-29T09:18:57.148512"
+  },
+  "yuandeng565/Behinder4.0.2-plus": {
+    "last_commit": "6b5bb7f",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:18:57.505988"
+  },
+  "yuanyuanxiang/SimpleRemoter": {
+    "last_commit": "4ae97ab",
+    "last_tag": "v1.0.2.0",
+    "last_release": "v1.0.2.0",
+    "last_check": "2025-12-29T09:18:58.628858"
+  },
+  "yunxu1/dnsub": {
+    "last_commit": "4dbfb2d",
+    "last_tag": "v2.1",
+    "last_release": "v2.1",
+    "last_check": "2025-12-29T09:18:59.358408"
+  },
+  "ywolf/F-NAScan": {
+    "last_commit": "d4b1461",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:18:59.586694"
+  },
+  "yzddmr6/WebCrack": {
+    "last_commit": "eb64610",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:19:00.332371"
+  },
+  "Z-Siqi/Clash-for-Windows_Chinese": {
+    "last_commit": "d530262",
+    "last_tag": "CFW-custom-made",
+    "last_release": "0.20.39.3",
+    "last_check": "2025-12-29T09:19:01.576873"
+  },
+  "Z4nzu/hackingtool": {
+    "last_commit": "7df27d8",
+    "last_tag": "v1.1.0",
+    "last_release": null,
+    "last_check": "2025-12-29T09:19:01.975274"
+  },
+  "zan8in/afrog": {
+    "last_commit": "d4a51bd",
+    "last_tag": "v3.2.8",
+    "last_release": "v3.2.8",
+    "last_check": "2025-12-29T09:19:03.052558"
+  },
+  "zcgonvh/DCOMPotato": {
+    "last_commit": "c41ca1a",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:19:03.355350"
+  },
+  "zema1/suo5": {
+    "last_commit": "239b451",
+    "last_tag": "v2.0.0",
+    "last_release": "v2.0.0",
+    "last_check": "2025-12-29T09:19:04.518876"
+  },
+  "zema1/watchvuln": {
+    "last_commit": "ba0391b",
+    "last_tag": "v2.7.0",
+    "last_release": "v2.7.0",
+    "last_check": "2025-12-29T09:19:05.176487"
+  },
+  "Zer08Bytes/IDSMonitor": {
+    "last_commit": "164a592",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:19:05.455606"
+  },
+  "zer0yu/Awesome-CobaltStrike": {
+    "last_commit": "f9875c1",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:19:06.184915"
+  },
+  "zhaijiahui/IDscan": {
+    "last_commit": "f5c2862",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:19:06.965831"
+  },
+  "zhengjim/camille": {
+    "last_commit": "83c5b23",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:19:07.681381"
+  },
+  "zhifubao121/SSTap-Rule": {
+    "last_commit": "ac4ee5f",
+    "last_tag": "v0.1-alpha",
+    "last_release": null,
+    "last_check": "2025-12-29T09:19:08.674401"
+  },
+  "zhongyang219/TrafficMonitor": {
+    "last_commit": "1097682",
+    "last_tag": "V1.85.1",
+    "last_release": "V1.85.1",
+    "last_check": "2025-12-29T09:19:09.557687"
+  },
+  "zhongyang219/TrafficMonitorPlugins": {
+    "last_commit": "62979cb",
+    "last_tag": "Weather_V1.03",
+    "last_release": "KeyboardIndicator_V1.00",
+    "last_check": "2025-12-29T09:19:10.427895"
+  },
+  "zhzyker/dismap": {
+    "last_commit": "bb670d2",
+    "last_tag": "v0.4",
+    "last_release": "v0.4",
+    "last_check": "2025-12-29T09:19:11.153685"
+  },
+  "zhzyker/exphub": {
+    "last_commit": "946405b",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:19:11.412331"
+  },
+  "zhzyker/vulmap": {
+    "last_commit": "3694afb",
+    "last_tag": "v0.9",
+    "last_release": "v0.9",
+    "last_check": "2025-12-29T09:19:12.562623"
+  },
+  "ZigZagK/typecho-theme-MDUI2333": {
+    "last_commit": "b6ff717",
+    "last_tag": "1.4.8fix",
+    "last_release": "1.4.8fix",
+    "last_check": "2025-12-29T09:19:13.327808"
+  },
+  "ZororoZ/fscanOutput": {
+    "last_commit": "76a419c",
+    "last_tag": "v3.0",
+    "last_release": "v3.0",
+    "last_check": "2025-12-29T09:19:14.097607"
+  },
+  "ZouJiu1/csdn_spider_selenium": {
+    "last_commit": "e6873c6",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:19:14.449641"
+  },
+  "ZouJiu1/zhihu_spider_selenium": {
+    "last_commit": "bca1993",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:19:15.190156"
+  },
+  "zsdlove/fortify-license-crack": {
+    "last_commit": "daa1051",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:19:15.878230"
+  },
+  "zu1k/xray-crack": {
+    "last_commit": "ad99cdb",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:19:16.587646"
+  },
+  "ZYallers/chatgpt_wechat_robot": {
+    "last_commit": "8867255",
+    "last_tag": null,
+    "last_release": null,
+    "last_check": "2025-12-29T09:19:17.295777"
   }
 }
