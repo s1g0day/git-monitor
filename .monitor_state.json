@@ -282,10 +282,10 @@
     "last_check": "2025-12-29T13:31:47.509016"
   },
   "adysec/nuclei_poc": {
-    "last_commit": "42f9396",
+    "last_commit": "47cbcda",
     "last_tag": null,
     "last_release": null,
-    "last_check": "2025-12-29T17:11:43.102148"
+    "last_check": "2025-12-29T19:10:02.887370"
   },
   "AhMyth/AhMyth-Android-RAT": {
     "last_commit": "97465b1",
@@ -1494,10 +1494,10 @@
     "last_check": "2025-12-29T10:17:17.844579"
   },
   "icsharpcode/ILSpy": {
-    "last_commit": "120154e",
+    "last_commit": "77d9ee7",
     "last_tag": "v10.0-preview1",
     "last_release": "v9.1",
-    "last_check": "2025-12-29T13:34:53.230825"
+    "last_check": "2025-12-29T19:11:57.376878"
   },
   "idfp/masquerade": {
     "last_commit": "eb6c21d",
@@ -2274,10 +2274,10 @@
     "last_check": "2025-12-29T10:19:03.602112"
   },
   "Pawdroid/Free-servers": {
-    "last_commit": "ed58f3e",
+    "last_commit": "e6be946",
     "last_tag": null,
     "last_release": null,
-    "last_check": "2025-12-29T18:22:43.894653"
+    "last_check": "2025-12-29T19:13:10.711761"
   },
   "PDWR/AVKiller": {
     "last_commit": "9c81f3d",
@@ -3276,10 +3276,10 @@
     "last_check": "2025-12-29T10:21:22.839119"
   },
   "v2fly/v2ray-core": {
-    "last_commit": "d771982",
+    "last_commit": "66958a3",
     "last_tag": "v5.42.0",
     "last_release": "v5.41.0",
-    "last_check": "2025-12-29T10:21:23.731557"
+    "last_check": "2025-12-29T19:14:47.662028"
   },
   "veo/vscan": {
     "last_commit": "1beb10c",
@@ -3510,10 +3510,10 @@
     "last_check": "2025-12-29T10:21:55.011078"
   },
   "xgit01/sgkrank": {
-    "last_commit": "0de19fd",
+    "last_commit": "eae6afe",
     "last_tag": null,
     "last_release": null,
-    "last_check": "2025-12-29T10:21:55.535135"
+    "last_check": "2025-12-29T19:15:11.164221"
   },
   "xiaogang000/XG_NTAI": {
     "last_commit": "1117f0f",
