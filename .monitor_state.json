@@ -1494,10 +1494,10 @@
     "last_check": "2025-12-29T10:17:17.844579"
   },
   "icsharpcode/ILSpy": {
-    "last_commit": "77d9ee7",
+    "last_commit": "ceed812",
     "last_tag": "v10.0-preview1",
     "last_release": "v9.1",
-    "last_check": "2025-12-29T19:11:57.376878"
+    "last_check": "2025-12-29T20:15:37.487921"
   },
   "idfp/masquerade": {
     "last_commit": "eb6c21d",
@@ -2274,10 +2274,10 @@
     "last_check": "2025-12-29T10:19:03.602112"
   },
   "Pawdroid/Free-servers": {
-    "last_commit": "e6be946",
+    "last_commit": "3b1f6b7",
     "last_tag": null,
     "last_release": null,
-    "last_check": "2025-12-29T19:13:10.711761"
+    "last_check": "2025-12-29T20:16:50.828668"
   },
   "PDWR/AVKiller": {
     "last_commit": "9c81f3d",
@@ -3078,10 +3078,10 @@
     "last_check": "2025-12-29T10:20:55.142142"
   },
   "tgkbase/shegongku": {
-    "last_commit": "086ccde",
+    "last_commit": "c3d737c",
     "last_tag": null,
     "last_release": null,
-    "last_check": "2025-12-29T13:38:50.781465"
+    "last_check": "2025-12-29T20:18:08.405030"
   },
   "The-Z-Labs/linux-exploit-suggester": {
     "last_commit": "2063aeb",
@@ -3278,8 +3278,8 @@
   "v2fly/v2ray-core": {
     "last_commit": "66958a3",
     "last_tag": "v5.42.0",
-    "last_release": "v5.41.0",
-    "last_check": "2025-12-29T19:14:47.662028"
+    "last_release": "v5.42.0",
+    "last_check": "2025-12-29T20:18:28.314816"
   },
   "veo/vscan": {
     "last_commit": "1beb10c",
