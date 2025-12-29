@@ -282,10 +282,10 @@
     "last_check": "2025-12-29T13:31:47.509016"
   },
   "adysec/nuclei_poc": {
-    "last_commit": "ac3393f",
+    "last_commit": "0a22fe3",
     "last_tag": null,
     "last_release": null,
-    "last_check": "2025-12-29T21:10:58.384135"
+    "last_check": "2025-12-29T23:11:36.653007"
   },
   "AhMyth/AhMyth-Android-RAT": {
     "last_commit": "97465b1",
@@ -2274,10 +2274,10 @@
     "last_check": "2025-12-29T10:19:03.602112"
   },
   "Pawdroid/Free-servers": {
-    "last_commit": "efeac11",
+    "last_commit": "80d0a5e",
     "last_tag": null,
     "last_release": null,
-    "last_check": "2025-12-29T22:16:10.444083"
+    "last_check": "2025-12-29T23:16:03.926420"
   },
   "PDWR/AVKiller": {
     "last_commit": "9c81f3d",
@@ -2898,10 +2898,10 @@
     "last_check": "2025-12-29T10:20:30.963195"
   },
   "sqlmapproject/sqlmap": {
-    "last_commit": "d1d9c7c",
+    "last_commit": "f256077",
     "last_tag": "1.9.12",
     "last_release": "1.9",
-    "last_check": "2025-12-29T15:16:34.914617"
+    "last_check": "2025-12-29T23:17:31.073019"
   },
   "StarCrossPortal/scalpel": {
     "last_commit": "7da815e",
