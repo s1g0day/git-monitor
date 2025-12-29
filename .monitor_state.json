@@ -276,16 +276,16 @@
     "last_check": "2025-12-29T10:14:33.701984"
   },
   "adysec/ARL": {
-    "last_commit": "209e8df",
+    "last_commit": "2b92111",
     "last_tag": null,
     "last_release": null,
-    "last_check": "2025-12-29T10:14:34.451985"
+    "last_check": "2025-12-29T13:31:47.509016"
   },
   "adysec/nuclei_poc": {
-    "last_commit": "2217bf5",
+    "last_commit": "29a6066",
     "last_tag": null,
     "last_release": null,
-    "last_check": "2025-12-29T11:11:52.474209"
+    "last_check": "2025-12-29T13:31:48.906847"
   },
   "AhMyth/AhMyth-Android-RAT": {
     "last_commit": "97465b1",
@@ -1494,10 +1494,10 @@
     "last_check": "2025-12-29T10:17:17.844579"
   },
   "icsharpcode/ILSpy": {
-    "last_commit": "76d879a",
+    "last_commit": "120154e",
     "last_tag": "v10.0-preview1",
     "last_release": "v9.1",
-    "last_check": "2025-12-29T10:17:19.114635"
+    "last_check": "2025-12-29T13:34:53.230825"
   },
   "idfp/masquerade": {
     "last_commit": "eb6c21d",
@@ -2274,10 +2274,10 @@
     "last_check": "2025-12-29T10:19:03.602112"
   },
   "Pawdroid/Free-servers": {
-    "last_commit": "bae03ae",
+    "last_commit": "1fc3252",
     "last_tag": null,
     "last_release": null,
-    "last_check": "2025-12-29T12:28:46.340707"
+    "last_check": "2025-12-29T13:36:47.885140"
   },
   "PDWR/AVKiller": {
     "last_commit": "9c81f3d",
@@ -2598,10 +2598,10 @@
     "last_check": "2025-12-29T10:19:47.884273"
   },
   "RROrg/rr": {
-    "last_commit": "03c797c",
+    "last_commit": "043dac4",
     "last_tag": "25.12.1",
     "last_release": "25.12.1",
-    "last_check": "2025-12-29T12:29:32.257859"
+    "last_check": "2025-12-29T13:37:36.062493"
   },
   "rsmudge/Malleable-C2-Profiles": {
     "last_commit": "2632378",
@@ -3078,10 +3078,10 @@
     "last_check": "2025-12-29T10:20:55.142142"
   },
   "tgkbase/shegongku": {
-    "last_commit": "a2f3388",
+    "last_commit": "086ccde",
     "last_tag": null,
     "last_release": null,
-    "last_check": "2025-12-29T10:20:55.908517"
+    "last_check": "2025-12-29T13:38:50.781465"
   },
   "The-Z-Labs/linux-exploit-suggester": {
     "last_commit": "2063aeb",
