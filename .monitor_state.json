@@ -210,10 +210,10 @@
     "last_check": "2025-12-29T10:14:25.588815"
   },
   "abcz316/SKRoot-linuxKernelRoot": {
-    "last_commit": "e61edcf",
+    "last_commit": "4380124",
     "last_tag": null,
     "last_release": null,
-    "last_check": "2025-12-29T10:14:25.856255"
+    "last_check": "2025-12-29T15:13:05.827106"
   },
   "AbelChe/BlastWithCaptcha": {
     "last_commit": "a6e2be5",
@@ -282,10 +282,10 @@
     "last_check": "2025-12-29T13:31:47.509016"
   },
   "adysec/nuclei_poc": {
-    "last_commit": "29a6066",
+    "last_commit": "f81a900",
     "last_tag": null,
     "last_release": null,
-    "last_check": "2025-12-29T13:31:48.906847"
+    "last_check": "2025-12-29T15:13:12.902924"
   },
   "AhMyth/AhMyth-Android-RAT": {
     "last_commit": "97465b1",
@@ -1194,10 +1194,10 @@
     "last_check": "2025-12-29T10:16:37.156684"
   },
   "FreshRSS/FreshRSS": {
-    "last_commit": "7c0370b",
+    "last_commit": "579f945",
     "last_tag": "1.28.0",
     "last_release": "1.28.0",
-    "last_check": "2025-12-29T10:16:38.442239"
+    "last_check": "2025-12-29T15:14:22.011619"
   },
   "FuckPHP/FuckPHP": {
     "last_commit": "e0aa392",
@@ -2274,10 +2274,10 @@
     "last_check": "2025-12-29T10:19:03.602112"
   },
   "Pawdroid/Free-servers": {
-    "last_commit": "ce50dbf",
+    "last_commit": "8d99b9e",
     "last_tag": null,
     "last_release": null,
-    "last_check": "2025-12-29T14:19:12.187653"
+    "last_check": "2025-12-29T15:15:45.917833"
   },
   "PDWR/AVKiller": {
     "last_commit": "9c81f3d",
@@ -2898,10 +2898,10 @@
     "last_check": "2025-12-29T10:20:30.963195"
   },
   "sqlmapproject/sqlmap": {
-    "last_commit": "8be94b4",
+    "last_commit": "d1d9c7c",
     "last_tag": "1.9.12",
     "last_release": "1.9",
-    "last_check": "2025-12-29T10:20:32.350669"
+    "last_check": "2025-12-29T15:16:34.914617"
   },
   "StarCrossPortal/scalpel": {
     "last_commit": "7da815e",
