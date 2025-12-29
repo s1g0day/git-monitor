@@ -978,10 +978,10 @@
     "last_check": "2025-12-29T10:16:08.633035"
   },
   "electerm/electerm": {
-    "last_commit": "871fc2e",
+    "last_commit": "a5a5142",
     "last_tag": "v2.3.166",
     "last_release": "v2.3.166",
-    "last_check": "2025-12-29T10:16:09.459100"
+    "last_check": "2025-12-29T12:25:48.115595"
   },
   "Elegycloud/clash-for-linux-backup": {
     "last_commit": null,
@@ -1872,10 +1872,10 @@
     "last_check": "2025-12-29T10:18:08.658722"
   },
   "lionsoul2014/ip2region": {
-    "last_commit": "56606de",
+    "last_commit": "0d152d9",
     "last_tag": "v20250906-db2.0-final",
     "last_release": "v3.11.1",
-    "last_check": "2025-12-29T10:18:09.584278"
+    "last_check": "2025-12-29T12:27:49.514761"
   },
   "loecho-sec/ARL-Finger-ADD": {
     "last_commit": "fd1ac79",
@@ -2274,10 +2274,10 @@
     "last_check": "2025-12-29T10:19:03.602112"
   },
   "Pawdroid/Free-servers": {
-    "last_commit": "1d830c5",
+    "last_commit": "bae03ae",
     "last_tag": null,
     "last_release": null,
-    "last_check": "2025-12-29T11:16:27.040707"
+    "last_check": "2025-12-29T12:28:46.340707"
   },
   "PDWR/AVKiller": {
     "last_commit": "9c81f3d",
@@ -2598,10 +2598,10 @@
     "last_check": "2025-12-29T10:19:47.884273"
   },
   "RROrg/rr": {
-    "last_commit": "da4d612",
-    "last_tag": "25.12.0",
-    "last_release": "25.12.0",
-    "last_check": "2025-12-29T10:19:48.721604"
+    "last_commit": "03c797c",
+    "last_tag": "25.12.1",
+    "last_release": "25.12.1",
+    "last_check": "2025-12-29T12:29:32.257859"
   },
   "rsmudge/Malleable-C2-Profiles": {
     "last_commit": "2632378",
@@ -3726,10 +3726,10 @@
     "last_check": "2025-12-29T10:22:23.763286"
   },
   "zan8in/afrog": {
-    "last_commit": "d4a51bd",
+    "last_commit": "09019fe",
     "last_tag": "v3.2.8",
     "last_release": "v3.2.8",
-    "last_check": "2025-12-29T10:22:24.757456"
+    "last_check": "2025-12-29T12:32:07.246627"
   },
   "zcgonvh/DCOMPotato": {
     "last_commit": "c41ca1a",
