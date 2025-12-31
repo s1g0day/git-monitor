@@ -2407,9 +2407,9 @@
   },
   "projectdiscovery/nuclei": {
     "last_commit": "2d3168b",
-    "last_tag": "v3.6.1",
-    "last_release": "v3.6.1",
-    "last_check": "2025-12-29T10:19:23.201276"
+    "last_tag": "v3.6.2",
+    "last_release": "v3.6.2",
+    "last_check": "2025-12-31T17:14:09.977676"
   },
   "projectdiscovery/subfinder": {
     "last_commit": "2e0982c",
