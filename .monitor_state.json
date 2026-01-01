@@ -2899,9 +2899,9 @@
   },
   "sqlmapproject/sqlmap": {
     "last_commit": "f256077",
-    "last_tag": "1.9.12",
-    "last_release": "1.9",
-    "last_check": "2025-12-29T23:17:31.073019"
+    "last_tag": "1.10",
+    "last_release": "1.10",
+    "last_check": "2026-01-01T18:20:09.093193"
   },
   "StarCrossPortal/scalpel": {
     "last_commit": "7da815e",
