@@ -523,9 +523,9 @@
   },
   "BishopFox/sliver": {
     "last_commit": "bae3e9e",
-    "last_tag": "v1.6.2",
-    "last_release": "v1.6.2",
-    "last_check": "2026-01-08T21:12:44.842697"
+    "last_tag": "v1.6.3",
+    "last_release": "v1.6.3",
+    "last_check": "2026-01-14T00:55:39.040555"
   },
   "bit4woo/burp-api-drops": {
     "last_commit": "17321fd",
@@ -1021,9 +1021,9 @@
   },
   "Eugeny/tabby": {
     "last_commit": "315083d",
-    "last_tag": "v1.0.229",
+    "last_tag": "v1.0.230",
     "last_release": "v1.0.229",
-    "last_check": "2025-12-29T10:16:14.966416"
+    "last_check": "2026-01-14T00:56:08.171382"
   },
   "euphrat1ca/Security-List": {
     "last_commit": "bc50f9e",
