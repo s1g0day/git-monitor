@@ -2288,8 +2288,8 @@
   "peass-ng/PEASS-ng": {
     "last_commit": "b4a1382",
     "last_tag": "refs/pull/260/merge",
-    "last_release": "20260101-f70f6a79",
-    "last_check": "2026-01-01T05:21:42.385503"
+    "last_release": "20260114-2f321ee3",
+    "last_check": "2026-01-14T16:18:11.357306"
   },
   "pen4uin/java-echo-generator": {
     "last_commit": "d29d995",
@@ -3277,9 +3277,9 @@
   },
   "v2fly/v2ray-core": {
     "last_commit": "66958a3",
-    "last_tag": "v5.43.0",
-    "last_release": "v5.42.0",
-    "last_check": "2026-01-03T18:20:31.260246"
+    "last_tag": "v5.44.0",
+    "last_release": "v5.43.0",
+    "last_check": "2026-01-14T16:19:06.787212"
   },
   "veo/vscan": {
     "last_commit": "1beb10c",
