@@ -3277,9 +3277,9 @@
   },
   "v2fly/v2ray-core": {
     "last_commit": "66958a3",
-    "last_tag": "v5.44.0",
+    "last_tag": "v5.44.1",
     "last_release": "v5.43.0",
-    "last_check": "2026-01-14T16:19:06.787212"
+    "last_check": "2026-01-15T20:15:56.080390"
   },
   "veo/vscan": {
     "last_commit": "1beb10c",
