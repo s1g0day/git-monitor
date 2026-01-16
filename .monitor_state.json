@@ -523,9 +523,9 @@
   },
   "BishopFox/sliver": {
     "last_commit": "bae3e9e",
-    "last_tag": "v1.6.5",
-    "last_release": "v1.6.5",
-    "last_check": "2026-01-16T00:54:18.643098"
+    "last_tag": "v1.6.6",
+    "last_release": "v1.6.6",
+    "last_check": "2026-01-16T18:17:57.321572"
   },
   "bit4woo/burp-api-drops": {
     "last_commit": "17321fd",
@@ -2288,8 +2288,8 @@
   "peass-ng/PEASS-ng": {
     "last_commit": "b4a1382",
     "last_tag": "refs/pull/260/merge",
-    "last_release": "20260114-2f321ee3",
-    "last_check": "2026-01-14T16:18:11.357306"
+    "last_release": "20260116-d4b8a4ba",
+    "last_check": "2026-01-16T18:20:03.898648"
   },
   "pen4uin/java-echo-generator": {
     "last_commit": "d29d995",
