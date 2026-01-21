@@ -739,9 +739,9 @@
   },
   "clash-verge-rev/clash-verge-rev": {
     "last_commit": "0cde6cf",
-    "last_tag": "v2.4.5-rc.1",
+    "last_tag": "v2.4.5-rc.2",
     "last_release": "v2.4.4",
-    "last_check": "2026-01-14T10:14:40.562209"
+    "last_check": "2026-01-21T14:20:55.897711"
   },
   "cmderdev/cmder": {
     "last_commit": "9e6e148",
@@ -2288,8 +2288,8 @@
   "peass-ng/PEASS-ng": {
     "last_commit": "b4a1382",
     "last_tag": "refs/pull/260/merge",
-    "last_release": "20260121-6d3fbb5f",
-    "last_check": "2026-01-21T12:27:08.994005"
+    "last_release": "20260121-4ccd13ca",
+    "last_check": "2026-01-21T14:23:02.725058"
   },
   "pen4uin/java-echo-generator": {
     "last_commit": "d29d995",
@@ -2395,15 +2395,15 @@
   },
   "projectdiscovery/httpx": {
     "last_commit": "7f9403e",
-    "last_tag": "v1.7.4",
-    "last_release": "v1.7.4",
-    "last_check": "2025-12-29T10:19:21.012080"
+    "last_tag": "v1.8.0",
+    "last_release": "v1.8.0",
+    "last_check": "2026-01-21T14:23:13.696424"
   },
   "projectdiscovery/naabu": {
     "last_commit": "e3349aa",
-    "last_tag": "v2.3.7",
-    "last_release": "v2.3.7",
-    "last_check": "2025-12-29T10:19:22.215599"
+    "last_tag": "v2.4.0",
+    "last_release": "v2.4.0",
+    "last_check": "2026-01-21T14:23:15.366787"
   },
   "projectdiscovery/nuclei": {
     "last_commit": "2d3168b",
