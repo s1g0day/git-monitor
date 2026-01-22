@@ -1675,9 +1675,9 @@
   },
   "jumpserver/jumpserver": {
     "last_commit": "95aa50e",
-    "last_tag": "v4.10.14",
+    "last_tag": "v4.10.15",
     "last_release": "v4.10.14",
-    "last_check": "2025-12-29T10:17:42.580412"
+    "last_check": "2026-01-22T10:17:59.590574"
   },
   "jweny/pocassist": {
     "last_commit": "269099d",
@@ -2395,9 +2395,9 @@
   },
   "projectdiscovery/httpx": {
     "last_commit": "7f9403e",
-    "last_tag": "v1.8.0",
-    "last_release": "v1.8.0",
-    "last_check": "2026-01-21T14:23:13.696424"
+    "last_tag": "v1.8.1",
+    "last_release": "v1.8.1",
+    "last_check": "2026-01-22T10:18:49.701679"
   },
   "projectdiscovery/naabu": {
     "last_commit": "e3349aa",
@@ -3650,8 +3650,8 @@
   "yisier/nps": {
     "last_commit": "b821409",
     "last_tag": "v100.26.10",
-    "last_release": "v0.26.28",
-    "last_check": "2025-12-29T10:22:14.284572"
+    "last_release": "v0.26.29",
+    "last_check": "2026-01-22T10:20:11.129421"
   },
   "yogeshojha/rengine": {
     "last_commit": "de41992",
