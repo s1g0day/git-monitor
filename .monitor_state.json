@@ -739,9 +739,9 @@
   },
   "clash-verge-rev/clash-verge-rev": {
     "last_commit": "0cde6cf",
-    "last_tag": "v2.4.5-rc.2",
+    "last_tag": "v2.4.5-rc.1",
     "last_release": "v2.4.4",
-    "last_check": "2026-01-21T14:20:55.897711"
+    "last_check": "2026-01-22T14:22:41.964991"
   },
   "cmderdev/cmder": {
     "last_commit": "9e6e148",
@@ -3650,8 +3650,8 @@
   "yisier/nps": {
     "last_commit": "b821409",
     "last_tag": "v100.26.10",
-    "last_release": "v0.26.29",
-    "last_check": "2026-01-22T10:20:11.129421"
+    "last_release": "v0.26.28",
+    "last_check": "2026-01-22T14:25:56.263590"
   },
   "yogeshojha/rengine": {
     "last_commit": "de41992",
