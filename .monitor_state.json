@@ -739,9 +739,9 @@
   },
   "clash-verge-rev/clash-verge-rev": {
     "last_commit": "0cde6cf",
-    "last_tag": "v2.4.5-rc.1",
+    "last_tag": "v2.4.5-rc.2",
     "last_release": "v2.4.4",
-    "last_check": "2026-01-22T14:22:41.964991"
+    "last_check": "2026-01-23T12:24:00.734250"
   },
   "cmderdev/cmder": {
     "last_commit": "9e6e148",
@@ -3608,8 +3608,8 @@
   "yaklang/yakit": {
     "last_commit": "3f44984",
     "last_tag": "v2.01.23-render",
-    "last_release": "v1.4.6-0116",
-    "last_check": "2026-01-23T10:17:11.706082"
+    "last_release": "v1.4.6-0123",
+    "last_check": "2026-01-23T12:28:15.421763"
   },
   "Yang1k/upload-labs-Pass16": {
     "last_commit": "9113cd1",
