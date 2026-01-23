@@ -1321,9 +1321,9 @@
   },
   "gogs/gogs": {
     "last_commit": "f813c17",
-    "last_tag": "v0.13.4-rc.3",
-    "last_release": "v0.13.3",
-    "last_check": "2026-01-23T18:19:08.760147"
+    "last_tag": "v0.13.4",
+    "last_release": "v0.13.4",
+    "last_check": "2026-01-23T20:14:26.712498"
   },
   "google/security-research": {
     "last_commit": "d57309a",
@@ -3650,8 +3650,8 @@
   "yisier/nps": {
     "last_commit": "b821409",
     "last_tag": "v100.26.10",
-    "last_release": "master",
-    "last_check": "2026-01-23T18:21:40.812427"
+    "last_release": "v0.26.28",
+    "last_check": "2026-01-23T20:16:16.610288"
   },
   "yogeshojha/rengine": {
     "last_commit": "de41992",
