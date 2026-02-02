@@ -979,9 +979,9 @@
   },
   "electerm/electerm": {
     "last_commit": "a5a5142",
-    "last_tag": "v2.4.38",
-    "last_release": "v2.4.38",
-    "last_check": "2026-01-29T12:30:23.980556"
+    "last_tag": "v2.5.6",
+    "last_release": "v2.5.6",
+    "last_check": "2026-02-02T01:05:32.076639"
   },
   "Elegycloud/clash-for-linux-backup": {
     "last_commit": null,
@@ -1969,9 +1969,9 @@
   },
   "maurosoria/dirsearch": {
     "last_commit": "6087496",
-    "last_tag": "v0.4.3",
+    "last_tag": "v0.4.4",
     "last_release": "v0.4.3",
-    "last_check": "2025-12-29T10:18:22.902296"
+    "last_check": "2026-02-02T01:06:19.164370"
   },
   "Medicean/as_bypass_php_disable_functions": {
     "last_commit": "66d5f08",
