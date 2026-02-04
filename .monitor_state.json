@@ -3205,9 +3205,9 @@
   },
   "trufflesecurity/trufflehog": {
     "last_commit": "a633174",
-    "last_tag": "v3.92.5",
-    "last_release": "v3.92.5",
-    "last_check": "2026-01-16T16:17:48.861811"
+    "last_tag": "v3.93.0",
+    "last_release": "v3.93.0",
+    "last_check": "2026-02-04T14:37:59.244384"
   },
   "TryGOTry/AutoGeaconC2": {
     "last_commit": "f6499f5",
