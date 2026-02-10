@@ -2797,9 +2797,9 @@
   },
   "shadowsocks/shadowsocks-android": {
     "last_commit": "48c1722",
-    "last_tag": "v5.3.4",
-    "last_release": "v5.3.4",
-    "last_check": "2025-12-29T10:20:17.688901"
+    "last_tag": "v5.3.5-nightly",
+    "last_release": "v5.3.5-nightly",
+    "last_check": "2026-02-10T06:55:54.772465"
   },
   "shadowsocks/shadowsocks-windows": {
     "last_commit": "891d971",
