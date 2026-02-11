@@ -2288,8 +2288,8 @@
   "peass-ng/PEASS-ng": {
     "last_commit": "b4a1382",
     "last_tag": "refs/pull/260/merge",
-    "last_release": "20260211-94159e87",
-    "last_check": "2026-02-11T12:44:01.929438"
+    "last_release": "20260211-fc7f770e",
+    "last_check": "2026-02-11T16:55:17.859041"
   },
   "pen4uin/java-echo-generator": {
     "last_commit": "d29d995",
@@ -2599,9 +2599,9 @@
   },
   "RROrg/rr": {
     "last_commit": "043dac4",
-    "last_tag": "26.2.0",
-    "last_release": "26.2.0",
-    "last_check": "2026-02-06T04:05:51.564100"
+    "last_tag": "26.2.1",
+    "last_release": "26.2.1",
+    "last_check": "2026-02-11T16:55:51.816777"
   },
   "rsmudge/Malleable-C2-Profiles": {
     "last_commit": "2632378",
@@ -3637,9 +3637,9 @@
   },
   "YerongAI/Office-Tool": {
     "last_commit": "d98aecf",
-    "last_tag": "v10.30.43.0",
-    "last_release": "v10.30.43.0",
-    "last_check": "2026-01-27T14:26:55.451570"
+    "last_tag": "v11.0.27.0",
+    "last_release": "v11.0.27.0",
+    "last_check": "2026-02-11T16:57:38.842332"
   },
   "yhy0/ExpDemo-JavaFX": {
     "last_commit": "b6901ef",
