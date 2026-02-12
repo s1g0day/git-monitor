@@ -2288,8 +2288,8 @@
   "peass-ng/PEASS-ng": {
     "last_commit": "b4a1382",
     "last_tag": "refs/pull/260/merge",
-    "last_release": "20260212-f6c5c556",
-    "last_check": "2026-02-12T04:16:37.471898"
+    "last_release": "20260212-43b28429",
+    "last_check": "2026-02-12T20:26:22.685017"
   },
   "pen4uin/java-echo-generator": {
     "last_commit": "d29d995",
