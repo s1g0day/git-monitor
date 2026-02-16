@@ -487,9 +487,9 @@
   },
   "BC-SECURITY/Empire": {
     "last_commit": "62f17b8",
-    "last_tag": "v6.3.0",
-    "last_release": "v6.3.0",
-    "last_check": "2025-12-29T10:15:02.916034"
+    "last_tag": "v6.4.1",
+    "last_release": "v6.4.1",
+    "last_check": "2026-02-16T18:28:33.389042"
   },
   "BeichenDream/Godzilla": {
     "last_commit": "a5558e6",
@@ -3691,9 +3691,9 @@
   },
   "yuanyuanxiang/SimpleRemoter": {
     "last_commit": "4ae97ab",
-    "last_tag": "v1.0.2.5",
-    "last_release": "v1.0.2.5",
-    "last_check": "2026-02-11T22:25:34.767304"
+    "last_tag": "v1.0.2.6",
+    "last_release": "v1.0.2.6",
+    "last_check": "2026-02-16T18:31:11.766801"
   },
   "yunxu1/dnsub": {
     "last_commit": "4dbfb2d",
