@@ -1321,9 +1321,9 @@
   },
   "gogs/gogs": {
     "last_commit": "f813c17",
-    "last_tag": "v0.14.2-rc.1",
-    "last_release": "v0.14.1",
-    "last_check": "2026-02-19T01:08:38.417223"
+    "last_tag": "v0.14.2",
+    "last_release": "v0.14.2",
+    "last_check": "2026-02-19T04:10:16.910885"
   },
   "google/security-research": {
     "last_commit": "d57309a",
