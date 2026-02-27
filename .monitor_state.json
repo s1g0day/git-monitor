@@ -2599,9 +2599,9 @@
   },
   "RROrg/rr": {
     "last_commit": "043dac4",
-    "last_tag": "26.2.1",
-    "last_release": "26.2.1",
-    "last_check": "2026-02-11T16:55:51.816777"
+    "last_tag": "26.2.2",
+    "last_release": "26.2.2",
+    "last_check": "2026-02-27T20:19:13.458589"
   },
   "rsmudge/Malleable-C2-Profiles": {
     "last_commit": "2632378",
