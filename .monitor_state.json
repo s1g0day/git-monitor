@@ -109,9 +109,9 @@
   },
   "2dust/v2rayN": {
     "last_commit": "807562b",
-    "last_tag": "7.19.0",
+    "last_tag": "7.19.1",
     "last_release": "7.18.0",
-    "last_check": "2026-02-26T12:36:24.217751"
+    "last_check": "2026-03-02T04:02:36.549308"
   },
   "485653/swallow": {
     "last_commit": "b3c2f27",
@@ -979,9 +979,9 @@
   },
   "electerm/electerm": {
     "last_commit": "a5a5142",
-    "last_tag": "v2.10.26",
-    "last_release": "v2.10.26",
-    "last_check": "2026-02-25T08:35:34.863090"
+    "last_tag": "v2.11.6",
+    "last_release": "v2.11.6",
+    "last_check": "2026-03-02T04:03:46.054237"
   },
   "Elegycloud/clash-for-linux-backup": {
     "last_commit": null,
