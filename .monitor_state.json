@@ -2395,15 +2395,15 @@
   },
   "projectdiscovery/httpx": {
     "last_commit": "7f9403e",
-    "last_tag": "v1.8.1",
-    "last_release": "v1.8.1",
-    "last_check": "2026-01-22T10:18:49.701679"
+    "last_tag": "v1.9.0",
+    "last_release": "v1.9.0",
+    "last_check": "2026-03-09T22:21:09.496355"
   },
   "projectdiscovery/naabu": {
     "last_commit": "e3349aa",
-    "last_tag": "v2.4.0",
-    "last_release": "v2.4.0",
-    "last_check": "2026-01-21T14:23:15.366787"
+    "last_tag": "v2.5.0",
+    "last_release": "v2.5.0",
+    "last_check": "2026-03-09T22:21:11.550354"
   },
   "projectdiscovery/nuclei": {
     "last_commit": "2d3168b",
@@ -2413,9 +2413,9 @@
   },
   "projectdiscovery/subfinder": {
     "last_commit": "2e0982c",
-    "last_tag": "v2.12.0",
-    "last_release": "v2.12.0",
-    "last_check": "2026-01-12T09:24:22.950024"
+    "last_tag": "v2.13.0",
+    "last_release": "v2.13.0",
+    "last_check": "2026-03-09T22:21:14.249517"
   },
   "projectdiscovery/uncover": {
     "last_commit": "b01669e",
