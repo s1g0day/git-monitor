@@ -1297,9 +1297,9 @@
   },
   "git-for-windows/git": {
     "last_commit": "00d4f5e",
-    "last_tag": "v2.53.0.windows.1",
-    "last_release": "v2.53.0.windows.1",
-    "last_check": "2026-02-03T01:07:45.996088"
+    "last_tag": "v2.53.0.windows.2",
+    "last_release": "v2.53.0.windows.2",
+    "last_check": "2026-03-10T20:22:49.113518"
   },
   "gitleaks/gitleaks": {
     "last_commit": "b66ac75",
