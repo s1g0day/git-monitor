@@ -763,9 +763,9 @@
   },
   "coder/code-server": {
     "last_commit": "ac7322c",
-    "last_tag": "v4.110.0",
-    "last_release": "v4.110.0",
-    "last_check": "2026-03-09T20:20:52.611762"
+    "last_tag": "v4.110.1",
+    "last_release": "v4.110.1",
+    "last_check": "2026-03-11T03:58:59.042454"
   },
   "Coderrrr-400/XhitReport": {
     "last_commit": "74d938b",
@@ -1213,9 +1213,9 @@
   },
   "future-architect/vuls": {
     "last_commit": "fc5344c",
-    "last_tag": "v0.38.5",
-    "last_release": "v0.38.5",
-    "last_check": "2026-03-03T10:29:25.079002"
+    "last_tag": "v0.38.6",
+    "last_release": "v0.38.6",
+    "last_check": "2026-03-11T03:59:20.748187"
   },
   "FW27623/qqwry": {
     "last_commit": "eb60c08",
@@ -3637,9 +3637,9 @@
   },
   "YerongAI/Office-Tool": {
     "last_commit": "d98aecf",
-    "last_tag": "v11.0.27.0",
-    "last_release": "v11.0.27.0",
-    "last_check": "2026-02-11T16:57:38.842332"
+    "last_tag": "v11.1.16.0",
+    "last_release": "v11.1.16.0",
+    "last_check": "2026-03-11T04:01:17.971832"
   },
   "yhy0/ExpDemo-JavaFX": {
     "last_commit": "b6901ef",
