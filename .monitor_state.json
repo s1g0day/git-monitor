@@ -1303,9 +1303,9 @@
   },
   "gitleaks/gitleaks": {
     "last_commit": "b66ac75",
-    "last_tag": "v8.30.0",
+    "last_tag": "v8.30.1",
     "last_release": "v8.30.0",
-    "last_check": "2025-12-29T10:16:53.140650"
+    "last_check": "2026-03-12T16:47:29.494904"
   },
   "gloxec/CrossC2": {
     "last_commit": "43171fc",
